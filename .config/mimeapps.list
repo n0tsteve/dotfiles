@@ -1,0 +1,23 @@
+[Added Associations]
+image/png=viewnior.desktop;feh.desktop;gimp.desktop;
+image/jpeg=viewnior.desktop;gimp.desktop;feh.desktop;
+text/x-csrc=geany.desktop;
+application/x-shellscript=geany.desktop;
+image/gif=viewnior.desktop;
+image/svg+xml=viewnior.desktop;
+application/x-trash=geany.desktop;
+text/html=geany.desktop;firefox.desktop;
+text/plain=geany.desktop;leafpad.desktop;
+image/x-xbitmap=gimp.desktop;viewnior.desktop;
+audio/mpeg=vlc.desktop;
+audio/x-mpegurl=vlc.desktop;
+application/octet-stream=xarchiver.desktop;
+video/mpeg=vlc.desktop;mplayer.desktop;
+audio/mp4=vlc.desktop;
+video/mp4=vlc.desktop;
+
+[Default Applications]
+image/gif=viewnior.desktop
+image/svg+xml=viewnior.desktop
+application/x-trash=geany.desktop
+x-scheme-handler/viber=viber.desktop

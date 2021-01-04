@@ -1,0 +1,5 @@
+2020/10/12-19:35:46.760 5910 Reusing MANIFEST /home/steve/.config/opera/IndexedDB/chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/12-19:52:59.728 5f55 Level-0 table #5: started
+2020/10/12-19:53:00.012 5f55 Level-0 table #5: 889 bytes OK
+2020/10/12-19:53:01.013 5f55 Delete type=0 #3
+2020/10/12-19:53:01.014 5f55 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

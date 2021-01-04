@@ -1,0 +1,1663 @@
+Jul 25 14:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 25 14:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 25 14:24 : client: [0] opened from 127.0.0.1:51158
+Jul 25 14:37 : client: [0] closed
+Jul 25 14:37 : client: [1] opened from 127.0.0.1:51160
+Jul 25 14:38 : client: [1] closed
+Jul 25 14:38 : client: [2] opened from 127.0.0.1:51162
+Jul 25 14:40 : client: [2] closed
+Jul 25 14:40 : client: [3] opened from 127.0.0.1:51166
+Jul 25 14:40 : client: [3] closed
+Jul 25 14:40 : client: [4] opened from 127.0.0.1:51168
+Jul 25 14:41 : client: [4] closed
+Jul 25 14:41 : client: [5] opened from 127.0.0.1:51170
+Jul 25 14:43 : client: [5] closed
+Jul 25 14:43 : client: [6] opened from 127.0.0.1:51174
+Jul 25 14:44 : client: [6] closed
+Jul 25 14:44 : client: [7] opened from 127.0.0.1:51176
+Jul 25 14:44 : client: [7] closed
+Jul 25 14:44 : client: [8] opened from 127.0.0.1:51178
+Jul 25 14:45 : client: [8] closed
+Jul 25 14:45 : client: [9] opened from 127.0.0.1:51180
+Jul 25 14:55 : player: played "alt_J - In Cold Blood.mp3"
+Jul 26 09:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 09:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 09:52 : client: [0] opened from 127.0.0.1:53198
+Jul 26 09:56 : client: [0] closed
+Jul 26 09:56 : client: [1] opened from 127.0.0.1:53336
+Jul 26 10:00 : client: [1] closed
+Jul 26 10:07 : client: [2] opened from 127.0.0.1:53436
+Jul 26 10:18 : client: [3] opened from 127.0.0.1:53458
+Jul 26 10:18 : client: [3] closed
+Jul 26 10:18 : client: [4] opened from 127.0.0.1:53462
+Jul 26 10:18 : client: [4] closed
+Jul 26 11:51 : client: [5] opened from 127.0.0.1:55032
+Jul 26 11:51 : client: [5] closed
+Jul 26 11:51 : client: [6] opened from 127.0.0.1:55036
+Jul 26 11:51 : client: [6] closed
+Jul 26 11:51 : client: [7] opened from 127.0.0.1:55040
+Jul 26 11:51 : client: [7] closed
+Jul 26 12:09 : client: [2] closed
+Jul 26 12:09 : client: [8] opened from 127.0.0.1:55510
+Jul 26 12:14 : client: [8] closed
+Jul 26 12:14 : client: [9] opened from 127.0.0.1:55514
+Jul 26 12:16 : client: [9] closed
+Jul 26 12:16 : client: [10] opened from 127.0.0.1:55516
+Jul 26 12:16 : client: [10] closed
+Jul 26 12:16 : client: [11] opened from 127.0.0.1:55518
+Jul 26 12:17 : client: [11] closed
+Jul 26 12:17 : client: [12] opened from 127.0.0.1:55520
+Jul 26 12:18 : client: [13] opened from 127.0.0.1:55526
+Jul 26 12:18 : client: [14] opened from 127.0.0.1:55530
+Jul 26 12:18 : client: [14] closed
+Jul 26 12:18 : client: [15] opened from 127.0.0.1:55534
+Jul 26 12:18 : client: [15] closed
+Jul 26 12:19 : client: [13] closed
+Jul 26 12:26 : client: [16] opened from 127.0.0.1:55540
+Jul 26 12:26 : client: [16] closed
+Jul 26 12:26 : client: [17] opened from 127.0.0.1:55544
+Jul 26 12:26 : client: [17] closed
+Jul 26 12:43 : client: [18] opened from 127.0.0.1:55656
+Jul 26 12:43 : client: [18] closed
+Jul 26 12:43 : client: [19] opened from 127.0.0.1:55660
+Jul 26 12:43 : client: [19] closed
+Jul 26 12:54 : client: [20] opened from 127.0.0.1:55704
+Jul 26 12:54 : client: [20] closed
+Jul 26 12:54 : client: [21] opened from 127.0.0.1:55708
+Jul 26 12:54 : client: [21] closed
+Jul 26 12:55 : client: [22] opened from 127.0.0.1:55710
+Jul 26 12:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 12:55 : client: [22] closed
+Jul 26 12:55 : client: [23] opened from 127.0.0.1:55712
+Jul 26 12:55 : client: [23] closed
+Jul 26 13:02 : player: played "alt_J - In Cold Blood.mp3"
+Jul 26 13:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 13:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 13:03 : client: [0] opened from 127.0.0.1:39462
+Jul 26 13:03 : client: [1] opened from 127.0.0.1:39466
+Jul 26 13:03 : client: [1] closed
+Jul 26 13:03 : client: [2] opened from 127.0.0.1:39470
+Jul 26 13:03 : client: [2] closed
+Jul 26 13:40 : client: [3] opened from 127.0.0.1:39652
+Jul 26 13:40 : client: [3] closed
+Jul 26 14:37 : client: [4] opened from 127.0.0.1:39824
+Jul 26 14:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 14:37 : client: [4] closed
+Jul 26 14:37 : client: [5] opened from 127.0.0.1:39826
+Jul 26 14:37 : client: [5] closed
+Jul 26 14:38 : client: [6] opened from 127.0.0.1:39830
+Jul 26 14:38 : client: [7] opened from 127.0.0.1:39834
+Jul 26 14:38 : client: [7] closed
+Jul 26 14:38 : client: [8] opened from 127.0.0.1:39838
+Jul 26 14:38 : client: [8] closed
+Jul 26 14:38 : client: [9] opened from 127.0.0.1:39842
+Jul 26 14:38 : client: [9] closed
+Jul 26 14:39 : client: [6] closed
+Jul 26 14:40 : client: [10] opened from 127.0.0.1:39846
+Jul 26 14:40 : client: [10] closed
+Jul 26 14:40 : client: [11] opened from 127.0.0.1:39848
+Jul 26 14:40 : exception: Failed to decode /home/steve/Music/Walking On Cars - Monster.mp3; Failed to open '/home/steve/Music/Walking On Cars - Monster.mp3': No such file or directory
+Jul 26 14:40 : player: played "Walking On Cars - Monster.mp3"
+Jul 26 14:40 : exception: Failed to decode /home/steve/Music/Walking On Cars - Monster.mp3; Failed to open '/home/steve/Music/Walking On Cars - Monster.mp3': No such file or directory
+Jul 26 14:40 : exception: Failed to decode /home/steve/Music/alt_J - In Cold Blood.mp3; Failed to open '/home/steve/Music/alt_J - In Cold Blood.mp3': No such file or directory
+Jul 26 14:40 : player: played "alt_J - In Cold Blood.mp3"
+Jul 26 14:40 : client: [11] closed
+Jul 26 14:40 : client: [12] opened from 127.0.0.1:39850
+Jul 26 14:40 : exception: Failed to decode /home/steve/Music/alt_J - In Cold Blood.mp3; Failed to open '/home/steve/Music/alt_J - In Cold Blood.mp3': No such file or directory
+Jul 26 14:40 : client: [12] closed
+Jul 26 14:40 : player: played "alt_J - In Cold Blood.mp3"
+Jul 26 14:40 : exception: Failed to decode /home/steve/Music/Walking On Cars - Monster.mp3; Failed to open '/home/steve/Music/Walking On Cars - Monster.mp3': No such file or directory
+Jul 26 14:40 : player: played "Walking On Cars - Monster.mp3"
+Jul 26 14:40 : client: [13] opened from 127.0.0.1:39852
+Jul 26 14:40 : exception: Failed to decode /home/steve/Music/Walking On Cars - Monster.mp3; Failed to open '/home/steve/Music/Walking On Cars - Monster.mp3': No such file or directory
+Jul 26 14:40 : player: played "Walking On Cars - Monster.mp3"
+Jul 26 14:40 : client: [13] closed
+Jul 26 14:40 : exception: Failed to decode /home/steve/Music/alt_J - In Cold Blood.mp3; Failed to open '/home/steve/Music/alt_J - In Cold Blood.mp3': No such file or directory
+Jul 26 14:40 : exception: Failed to decode /home/steve/Music/Walking On Cars - Monster.mp3; Failed to open '/home/steve/Music/Walking On Cars - Monster.mp3': No such file or directory
+Jul 26 14:40 : player: played "alt_J - In Cold Blood.mp3"
+Jul 26 14:40 : client: [14] opened from 127.0.0.1:39854
+Jul 26 14:40 : exception: Failed to decode /home/steve/Music/alt_J - In Cold Blood.mp3; Failed to open '/home/steve/Music/alt_J - In Cold Blood.mp3': No such file or directory
+Jul 26 14:40 : player: played "alt_J - In Cold Blood.mp3"
+Jul 26 14:40 : client: [14] closed
+Jul 26 14:40 : exception: Failed to decode /home/steve/Music/Walking On Cars - Monster.mp3; Failed to open '/home/steve/Music/Walking On Cars - Monster.mp3': No such file or directory
+Jul 26 14:40 : player: played "Walking On Cars - Monster.mp3"
+Jul 26 14:41 : client: [15] opened from 127.0.0.1:39858
+Jul 26 14:41 : exception: Failed to decode /home/steve/Music/Walking On Cars - Monster.mp3; Failed to open '/home/steve/Music/Walking On Cars - Monster.mp3': No such file or directory
+Jul 26 14:41 : player: played "Walking On Cars - Monster.mp3"
+Jul 26 14:41 : exception: Failed to decode /home/steve/Music/alt_J - In Cold Blood.mp3; Failed to open '/home/steve/Music/alt_J - In Cold Blood.mp3': No such file or directory
+Jul 26 14:41 : player: played "alt_J - In Cold Blood.mp3"
+Jul 26 14:41 : exception: Failed to decode /home/steve/Music/alt_J - In Cold Blood.mp3; Failed to open '/home/steve/Music/alt_J - In Cold Blood.mp3': No such file or directory
+Jul 26 14:41 : exception: Failed to decode /home/steve/Music/Walking On Cars - Monster.mp3; Failed to open '/home/steve/Music/Walking On Cars - Monster.mp3': No such file or directory
+Jul 26 14:41 : player: played "alt_J - In Cold Blood.mp3"
+Jul 26 14:41 : exception: Failed to decode /home/steve/Music/Walking On Cars - Monster.mp3; Failed to open '/home/steve/Music/Walking On Cars - Monster.mp3': No such file or directory
+Jul 26 14:41 : player: played "Walking On Cars - Monster.mp3"
+Jul 26 14:41 : exception: Failed to decode /home/steve/Music/alt_J - In Cold Blood.mp3; Failed to open '/home/steve/Music/alt_J - In Cold Blood.mp3': No such file or directory
+Jul 26 14:41 : player: played "alt_J - In Cold Blood.mp3"
+Jul 26 14:41 : exception: Failed to decode /home/steve/Music/Walking On Cars - Monster.mp3; Failed to open '/home/steve/Music/Walking On Cars - Monster.mp3': No such file or directory
+Jul 26 14:41 : player: played "Walking On Cars - Monster.mp3"
+Jul 26 14:41 : exception: Failed to decode /home/steve/Music/Walking On Cars - Monster.mp3; Failed to open '/home/steve/Music/Walking On Cars - Monster.mp3': No such file or directory
+Jul 26 14:41 : exception: Failed to decode /home/steve/Music/alt_J - In Cold Blood.mp3; Failed to open '/home/steve/Music/alt_J - In Cold Blood.mp3': No such file or directory
+Jul 26 14:41 : player: played "Walking On Cars - Monster.mp3"
+Jul 26 14:41 : exception: Failed to decode /home/steve/Music/alt_J - In Cold Blood.mp3; Failed to open '/home/steve/Music/alt_J - In Cold Blood.mp3': No such file or directory
+Jul 26 14:41 : player: played "alt_J - In Cold Blood.mp3"
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : client: [15] closed
+Jul 26 14:41 : client: [16] opened from 127.0.0.1:39862
+Jul 26 14:41 : exception: Failed to access /home/steve/Music: No such file or directory
+Jul 26 14:41 : client: [16] closed
+Jul 26 14:41 : client: [17] opened from 127.0.0.1:39866
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:41 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:42 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:42 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:42 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:42 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:42 : client: [17] closed
+Jul 26 14:42 : client: [18] opened from 127.0.0.1:39870
+Jul 26 14:43 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:43 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:43 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:43 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:43 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:43 : client: [18] closed
+Jul 26 14:43 : client: [19] opened from 127.0.0.1:39874
+Jul 26 14:43 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:43 : exception: Failed to decode /home/steve/Music/alt_J - In Cold Blood.mp3; Failed to open '/home/steve/Music/alt_J - In Cold Blood.mp3': No such file or directory
+Jul 26 14:43 : player: played "alt_J - In Cold Blood.mp3"
+Jul 26 14:43 : exception: Failed to decode /home/steve/Music/Walking On Cars - Monster.mp3; Failed to open '/home/steve/Music/Walking On Cars - Monster.mp3': No such file or directory
+Jul 26 14:43 : exception: Failed to decode /home/steve/Music/alt_J - In Cold Blood.mp3; Failed to open '/home/steve/Music/alt_J - In Cold Blood.mp3': No such file or directory
+Jul 26 14:43 : player: played "Walking On Cars - Monster.mp3"
+Jul 26 14:43 : exception: Failed to decode /home/steve/Music/alt_J - In Cold Blood.mp3; Failed to open '/home/steve/Music/alt_J - In Cold Blood.mp3': No such file or directory
+Jul 26 14:43 : player: played "alt_J - In Cold Blood.mp3"
+Jul 26 14:43 : client: [19] closed
+Jul 26 14:43 : client: [20] opened from 127.0.0.1:39878
+Jul 26 14:43 : exception: Failed to access /home/steve/Music: No such file or directory
+Jul 26 14:43 : client: [20] closed
+Jul 26 14:43 : client: [21] opened from 127.0.0.1:39882
+Jul 26 14:43 : client: [21] closed
+Jul 26 14:44 : client: [22] opened from 127.0.0.1:39886
+Jul 26 14:44 : exception: Failed to access /home/steve/Music: No such file or directory
+Jul 26 14:44 : client: [22] closed
+Jul 26 14:44 : client: [23] opened from 127.0.0.1:39890
+Jul 26 14:44 : exception: Failed to access /home/steve/Music: No such file or directory
+Jul 26 14:44 : client: [23] closed
+Jul 26 14:44 : client: [24] opened from 127.0.0.1:39894
+Jul 26 14:44 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:44 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:44 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:44 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:44 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:44 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:44 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:44 : client: [24] closed
+Jul 26 14:46 : client: [25] opened from 127.0.0.1:39900
+Jul 26 14:46 : client: [25] closed
+Jul 26 14:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 14:46 : update: added /Dabro Remix - Улетай На Крыльях Ветра.mp3
+Jul 26 14:46 : client: [0] opened from 127.0.0.1:39902
+Jul 26 14:46 : client: [1] opened from 127.0.0.1:39906
+Jul 26 14:46 : client: [1] closed
+Jul 26 14:46 : client: [2] opened from 127.0.0.1:39910
+Jul 26 14:46 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 14:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 14:47 : client: [3] opened from 127.0.0.1:39914
+Jul 26 14:47 : client: [3] closed
+Jul 26 14:47 : client: [4] opened from 127.0.0.1:39918
+Jul 26 14:47 : client: [4] closed
+Jul 26 14:47 : client: [5] opened from 127.0.0.1:39922
+Jul 26 14:47 : client: [5] closed
+Jul 26 14:47 : client: [2] closed
+Jul 26 14:47 : client: [6] opened from 127.0.0.1:39926
+Jul 26 14:47 : client: [7] opened from 127.0.0.1:39930
+Jul 26 14:47 : client: [7] closed
+Jul 26 14:47 : client: [8] opened from 127.0.0.1:39934
+Jul 26 14:47 : client: [8] closed
+Jul 26 14:47 : client: [9] opened from 127.0.0.1:39938
+Jul 26 14:47 : client: [9] closed
+Jul 26 14:47 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:47 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:47 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:47 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:47 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : update: updating /Dabro Remix - Улетай На Крыльях Ветра.mp3
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : client: [6] closed
+Jul 26 14:49 : client: [10] opened from 127.0.0.1:39946
+Jul 26 14:49 : client: [11] opened from 127.0.0.1:39950
+Jul 26 14:49 : client: [11] closed
+Jul 26 14:49 : client: [12] opened from 127.0.0.1:39954
+Jul 26 14:49 : client: [12] closed
+Jul 26 14:49 : client: [13] opened from 127.0.0.1:39958
+Jul 26 14:49 : client: [13] closed
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : update: updating /Dabro Remix - Улетай На Крыльях Ветра.mp3
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Jul 26 14:49 : client: [14] opened from 127.0.0.1:39960
+Jul 26 14:49 : client: [14] closed
+Jul 26 14:49 : client: [15] opened from 127.0.0.1:39962
+Jul 26 14:49 : client: [15] closed
+Jul 26 14:49 : client: [16] opened from 127.0.0.1:39964
+Jul 26 14:49 : client: [16] closed
+Jul 26 14:49 : client: [17] opened from 127.0.0.1:39966
+Jul 26 14:49 : client: [17] closed
+Jul 26 14:49 : client: [18] opened from 127.0.0.1:39968
+Jul 26 14:49 : client: [18] closed
+Jul 26 14:49 : client: [10] closed
+Jul 26 14:50 : client: [19] opened from 127.0.0.1:39972
+Jul 26 14:50 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Jul 26 14:50 : client: [19] closed
+Jul 26 14:50 : client: [20] opened from 127.0.0.1:39974
+Jul 26 14:50 : client: [20] closed
+Jul 26 14:50 : client: [21] opened from 127.0.0.1:39980
+Jul 26 14:50 : client: [21] closed
+Jul 26 14:51 : client: [22] opened from 127.0.0.1:39984
+Jul 26 14:51 : client: [22] closed
+Jul 26 14:51 : client: [23] opened from 127.0.0.1:39988
+Jul 26 14:51 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Jul 26 14:51 : client: [23] closed
+Jul 26 14:54 : client: [24] opened from 127.0.0.1:40062
+Jul 26 14:54 : client: [24] closed
+Jul 26 14:54 : client: [25] opened from 127.0.0.1:40066
+Jul 26 14:54 : client: [26] opened from 127.0.0.1:40070
+Jul 26 14:54 : client: [26] closed
+Jul 26 14:54 : client: [27] opened from 127.0.0.1:40074
+Jul 26 14:54 : client: [27] closed
+Jul 26 14:54 : client: [28] opened from 127.0.0.1:40078
+Jul 26 14:54 : client: [28] closed
+Jul 26 14:55 : client: [25] closed
+Jul 26 14:55 : client: [29] opened from 127.0.0.1:40084
+Jul 26 14:55 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Jul 26 14:55 : client: [29] closed
+Jul 26 14:55 : client: [0] closed
+Jul 26 14:55 : client: [30] opened from 127.0.0.1:40086
+Jul 26 14:55 : client: [31] opened from 127.0.0.1:40090
+Jul 26 14:55 : update: updating /Dabro Remix - Улетай На Крыльях Ветра.mp3
+Jul 26 14:55 : client: [31] closed
+Jul 26 14:56 : client: [32] opened from 127.0.0.1:40094
+Jul 26 14:56 : client: [32] closed
+Jul 26 14:56 : client: [33] opened from 127.0.0.1:40096
+Jul 26 14:56 : client: [33] closed
+Jul 26 14:56 : client: [34] opened from 127.0.0.1:40098
+Jul 26 14:56 : client: [34] closed
+Jul 26 15:53 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Jul 26 16:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 16:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 16:14 : client: [0] opened from 127.0.0.1:34884
+Jul 26 16:16 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Jul 26 17:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 17:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 17:36 : client: [0] opened from 127.0.0.1:56436
+Jul 26 17:36 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Jul 26 21:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 21:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 21:16 : client: [0] opened from 127.0.0.1:42734
+Jul 26 23:19 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Jul 27 20:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 20:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 20:05 : client: [0] opened from 127.0.0.1:57792
+Jul 27 20:05 : client: [1] opened from 127.0.0.1:57796
+Jul 27 20:05 : client: [1] closed
+Jul 27 21:56 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Jul 28 09:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 09:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 09:18 : client: [0] opened from 127.0.0.1:59538
+Jul 28 09:45 : client: [1] opened from 127.0.0.1:59984
+Jul 28 09:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 09:45 : client: [1] closed
+Jul 28 09:45 : client: [2] opened from 127.0.0.1:59986
+Jul 28 09:45 : client: [2] closed
+Jul 28 09:51 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Jul 28 23:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 23:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 23:23 : client: [0] opened from 127.0.0.1:36106
+Jul 29 00:12 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Jul 29 11:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 11:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 11:35 : client: [0] opened from 127.0.0.1:36926
+Jul 29 12:01 : client: [1] opened from 127.0.0.1:37106
+Jul 29 12:01 : client: [1] closed
+Jul 29 12:01 : client: [2] opened from 127.0.0.1:37110
+Jul 29 12:01 : client: [2] closed
+Jul 29 12:06 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Jul 29 16:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 16:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 16:21 : client: [0] opened from 127.0.0.1:59486
+Jul 29 16:53 : client: [1] opened from 127.0.0.1:60182
+Jul 29 16:53 : client: [1] closed
+Jul 29 16:53 : client: [2] opened from 127.0.0.1:60186
+Jul 29 16:53 : client: [2] closed
+Jul 29 16:53 : client: [3] opened from 127.0.0.1:60190
+Jul 29 16:53 : client: [3] closed
+Jul 29 16:53 : client: [4] opened from 127.0.0.1:60194
+Jul 29 16:53 : client: [4] closed
+Jul 29 16:55 : client: [5] opened from 127.0.0.1:60222
+Jul 29 16:55 : client: [5] closed
+Jul 29 16:55 : client: [6] opened from 127.0.0.1:60226
+Jul 29 16:55 : client: [6] closed
+Jul 29 16:55 : client: [7] opened from 127.0.0.1:60230
+Jul 29 16:55 : client: [7] closed
+Jul 29 16:55 : client: [8] opened from 127.0.0.1:60234
+Jul 29 16:55 : client: [8] closed
+Jul 29 17:06 : client: [9] opened from 127.0.0.1:60316
+Jul 29 17:06 : client: [9] closed
+Jul 29 17:06 : client: [10] opened from 127.0.0.1:60320
+Jul 29 17:06 : client: [10] closed
+Jul 29 17:07 : client: [11] opened from 127.0.0.1:60332
+Jul 29 17:07 : client: [11] closed
+Jul 29 17:07 : client: [12] opened from 127.0.0.1:60336
+Jul 29 17:07 : client: [12] closed
+Jul 29 17:07 : client: [13] opened from 127.0.0.1:60340
+Jul 29 17:07 : client: [13] closed
+Jul 29 17:07 : client: [14] opened from 127.0.0.1:60344
+Jul 29 17:07 : client: [14] closed
+Jul 29 17:07 : client: [15] opened from 127.0.0.1:60348
+Jul 29 17:07 : client: [15] closed
+Jul 29 17:07 : client: [16] opened from 127.0.0.1:60352
+Jul 29 17:07 : client: [16] closed
+Jul 29 17:07 : client: [17] opened from 127.0.0.1:60356
+Jul 29 17:07 : client: [17] closed
+Jul 29 17:07 : client: [18] opened from 127.0.0.1:60360
+Jul 29 17:07 : client: [18] closed
+Jul 29 17:07 : client: [19] opened from 127.0.0.1:60364
+Jul 29 17:07 : client: [19] closed
+Jul 29 17:07 : client: [20] opened from 127.0.0.1:60368
+Jul 29 17:07 : client: [20] closed
+Jul 29 17:07 : client: [21] opened from 127.0.0.1:60372
+Jul 29 17:07 : client: [21] closed
+Jul 29 17:07 : client: [22] opened from 127.0.0.1:60376
+Jul 29 17:07 : client: [22] closed
+Jul 29 17:08 : client: [23] opened from 127.0.0.1:60380
+Jul 29 17:08 : client: [23] closed
+Jul 29 17:08 : client: [24] opened from 127.0.0.1:60384
+Jul 29 17:08 : client: [24] closed
+Jul 29 17:08 : client: [25] opened from 127.0.0.1:60388
+Jul 29 17:08 : client: [25] closed
+Jul 29 17:08 : client: [26] opened from 127.0.0.1:60392
+Jul 29 17:08 : client: [26] closed
+Jul 29 17:10 : client: [27] opened from 127.0.0.1:60540
+Jul 29 17:10 : client: [28] opened from 127.0.0.1:60544
+Jul 29 17:10 : client: [28] closed
+Jul 29 17:10 : client: [29] opened from 127.0.0.1:60548
+Jul 29 17:10 : client: [29] closed
+Jul 29 17:10 : client: [30] opened from 127.0.0.1:60552
+Jul 29 17:10 : client: [30] closed
+Jul 29 17:10 : client: [27] closed
+Jul 29 18:01 : client: [31] opened from 127.0.0.1:32952
+Jul 29 18:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 18:01 : client: [31] closed
+Jul 29 18:01 : client: [32] opened from 127.0.0.1:32954
+Jul 29 18:01 : client: [32] closed
+Jul 29 18:53 : client: [33] opened from 127.0.0.1:33450
+Jul 29 18:53 : client: [33] closed
+Jul 29 20:48 : client: [34] opened from 127.0.0.1:34494
+Jul 29 20:48 : client: [34] closed
+Jul 29 22:06 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 04 15:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 15:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 15:40 : client: [0] opened from 127.0.0.1:56894
+Aug 04 15:50 : client: [1] opened from 127.0.0.1:57232
+Aug 04 15:50 : client: [1] closed
+Aug 04 16:13 : client: [0] closed
+Aug 04 16:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 16:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 16:13 : client: [0] opened from 127.0.0.1:57308
+Aug 04 16:15 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 04 16:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 16:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 04 16:52 : client: [0] opened from 127.0.0.1:60668
+Aug 04 16:56 : client: [1] opened from 127.0.0.1:60818
+Aug 04 16:56 : client: [1] closed
+Aug 04 16:56 : client: [2] opened from 127.0.0.1:60822
+Aug 04 16:56 : client: [2] closed
+Aug 04 16:56 : client: [3] opened from 127.0.0.1:60826
+Aug 04 16:56 : client: [3] closed
+Aug 04 16:56 : client: [4] opened from 127.0.0.1:60830
+Aug 04 16:56 : client: [4] closed
+Aug 04 16:56 : client: [5] opened from 127.0.0.1:60834
+Aug 04 16:56 : client: [5] closed
+Aug 04 16:56 : client: [6] opened from 127.0.0.1:60838
+Aug 04 16:56 : client: [6] closed
+Aug 04 18:13 : client: [7] opened from 127.0.0.1:33480
+Aug 04 18:13 : client: [7] closed
+Aug 04 18:13 : client: [8] opened from 127.0.0.1:33484
+Aug 04 18:13 : client: [8] closed
+Aug 04 18:13 : client: [9] opened from 127.0.0.1:33488
+Aug 04 18:13 : client: [9] closed
+Aug 04 18:13 : client: [10] opened from 127.0.0.1:33492
+Aug 04 18:13 : client: [10] closed
+Aug 04 19:06 : client: [0] closed
+Aug 04 19:06 : client: [11] opened from 127.0.0.1:33846
+Aug 04 19:07 : client: [11] closed
+Aug 04 19:09 : client: [12] opened from 127.0.0.1:33854
+Aug 04 19:09 : client: [12] closed
+Aug 04 19:18 : client: [13] opened from 127.0.0.1:34018
+Aug 04 19:18 : client: [13] closed
+Aug 04 19:19 : client: [14] opened from 127.0.0.1:34020
+Aug 04 19:19 : client: [14] closed
+Aug 04 19:19 : client: [15] opened from 127.0.0.1:34026
+Aug 04 19:19 : client: [15] closed
+Aug 04 19:23 : client: [16] opened from 127.0.0.1:34082
+Aug 04 19:23 : client: [16] closed
+Aug 04 19:23 : client: [17] opened from 127.0.0.1:34084
+Aug 04 19:24 : client: [17] closed
+Aug 04 19:29 : client: [18] opened from 127.0.0.1:34312
+Aug 04 19:29 : client: [18] closed
+Aug 04 20:06 : client: [19] opened from 127.0.0.1:34328
+Aug 04 20:06 : client: [19] closed
+Aug 04 20:08 : client: [20] opened from 127.0.0.1:34330
+Aug 04 20:25 : client: [20] closed
+Aug 04 20:25 : client: [21] opened from 127.0.0.1:34592
+Aug 04 21:25 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 05 09:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 09:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 09:08 : client: [0] opened from 127.0.0.1:37610
+Aug 05 09:09 : client: [1] opened from 127.0.0.1:37614
+Aug 05 09:09 : client: [1] closed
+Aug 05 09:09 : client: [2] opened from 127.0.0.1:37618
+Aug 05 09:09 : client: [2] closed
+Aug 05 09:09 : client: [3] opened from 127.0.0.1:37622
+Aug 05 09:09 : client: [3] closed
+Aug 05 09:09 : client: [4] opened from 127.0.0.1:37626
+Aug 05 09:09 : client: [4] closed
+Aug 05 09:09 : client: [5] opened from 127.0.0.1:37630
+Aug 05 09:09 : client: [5] closed
+Aug 05 09:09 : client: [6] opened from 127.0.0.1:37634
+Aug 05 09:09 : client: [6] closed
+Aug 05 09:09 : client: [7] opened from 127.0.0.1:37638
+Aug 05 09:09 : client: [7] closed
+Aug 05 09:09 : client: [8] opened from 127.0.0.1:37642
+Aug 05 09:09 : client: [8] closed
+Aug 05 09:29 : client: [9] opened from 127.0.0.1:37816
+Aug 05 09:29 : client: [9] closed
+Aug 05 09:29 : client: [10] opened from 127.0.0.1:37820
+Aug 05 09:29 : client: [10] closed
+Aug 05 09:29 : client: [11] opened from 127.0.0.1:37824
+Aug 05 09:29 : client: [11] closed
+Aug 05 09:29 : client: [12] opened from 127.0.0.1:37828
+Aug 05 09:29 : client: [12] closed
+Aug 05 09:37 : client: [0] closed
+Aug 05 09:37 : client: [13] opened from 127.0.0.1:37960
+Aug 05 09:38 : client: [13] closed
+Aug 05 09:39 : client: [14] opened from 127.0.0.1:38024
+Aug 05 09:39 : client: [14] closed
+Aug 05 09:50 : client: [15] opened from 127.0.0.1:38312
+Aug 05 09:52 : client: [16] opened from 127.0.0.1:38316
+Aug 05 09:52 : client: [16] closed
+Aug 05 10:06 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 05 14:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 14:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 14:51 : client: [0] opened from 127.0.0.1:53016
+Aug 05 17:31 : client: [1] opened from 127.0.0.1:53872
+Aug 05 17:31 : client: [1] closed
+Aug 06 01:00 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 06 09:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 09:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 09:50 : client: [0] opened from 127.0.0.1:34282
+Aug 06 12:16 : client: [1] opened from 127.0.0.1:36110
+Aug 06 12:16 : client: [1] closed
+Aug 06 12:16 : client: [2] opened from 127.0.0.1:36114
+Aug 06 12:16 : client: [2] closed
+Aug 06 12:17 : client: [3] opened from 127.0.0.1:36118
+Aug 06 12:17 : client: [3] closed
+Aug 06 12:17 : client: [4] opened from 127.0.0.1:36122
+Aug 06 12:17 : client: [4] closed
+Aug 06 12:17 : client: [5] opened from 127.0.0.1:36126
+Aug 06 12:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 12:17 : client: [5] closed
+Aug 06 12:17 : client: [6] opened from 127.0.0.1:36130
+Aug 06 12:17 : client: [6] closed
+Aug 06 12:17 : client: [7] opened from 127.0.0.1:36134
+Aug 06 12:17 : client: [7] closed
+Aug 06 12:17 : client: [8] opened from 127.0.0.1:36138
+Aug 06 12:17 : client: [8] closed
+Aug 06 12:18 : client: [9] opened from 127.0.0.1:36142
+Aug 06 12:18 : client: [9] closed
+Aug 06 12:18 : client: [10] opened from 127.0.0.1:36146
+Aug 06 12:18 : client: [10] closed
+Aug 06 12:18 : client: [11] opened from 127.0.0.1:36150
+Aug 06 12:18 : client: [11] closed
+Aug 06 12:18 : client: [12] opened from 127.0.0.1:36154
+Aug 06 12:18 : client: [12] closed
+Aug 06 12:18 : client: [13] opened from 127.0.0.1:36158
+Aug 06 12:18 : client: [13] closed
+Aug 06 12:18 : client: [14] opened from 127.0.0.1:36162
+Aug 06 12:18 : client: [14] closed
+Aug 06 12:18 : client: [15] opened from 127.0.0.1:36166
+Aug 06 12:18 : client: [16] opened from 127.0.0.1:36170
+Aug 06 12:18 : client: [16] closed
+Aug 06 12:18 : client: [17] opened from 127.0.0.1:36174
+Aug 06 12:18 : client: [17] closed
+Aug 06 12:18 : client: [18] opened from 127.0.0.1:36178
+Aug 06 12:18 : client: [18] closed
+Aug 06 12:20 : client: [15] closed
+Aug 06 12:20 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 06 12:23 : client: [19] opened from 127.0.0.1:36486
+Aug 06 12:23 : client: [19] closed
+Aug 06 12:23 : client: [20] opened from 127.0.0.1:36490
+Aug 06 12:23 : client: [20] closed
+Aug 06 12:23 : client: [21] opened from 127.0.0.1:36496
+Aug 06 12:23 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 06 12:23 : client: [21] closed
+Aug 06 12:23 : client: [22] opened from 127.0.0.1:36514
+Aug 06 12:23 : client: [22] closed
+Aug 06 12:23 : client: [23] opened from 127.0.0.1:36518
+Aug 06 12:23 : client: [23] closed
+Aug 06 12:23 : client: [24] opened from 127.0.0.1:36522
+Aug 06 12:23 : client: [24] closed
+Aug 06 12:53 : client: [25] opened from 127.0.0.1:36838
+Aug 06 12:53 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 06 12:53 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 06 12:53 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 06 12:53 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 06 12:53 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 06 12:53 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 06 12:53 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 06 12:53 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 06 12:53 : client: [25] closed
+Aug 06 12:54 : client: [26] opened from 127.0.0.1:36840
+Aug 06 12:54 : client: [26] closed
+Aug 06 12:54 : client: [27] opened from 127.0.0.1:36842
+Aug 06 12:54 : client: [27] closed
+Aug 06 16:05 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 07 20:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 20:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 20:51 : client: [0] opened from 127.0.0.1:41028
+Aug 07 22:14 : client: [1] opened from 127.0.0.1:41792
+Aug 07 22:14 : client: [1] closed
+Aug 07 23:38 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 08 00:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 00:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 00:25 : client: [0] opened from 127.0.0.1:46208
+Aug 08 01:13 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 08 09:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 09:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 09:57 : client: [0] opened from 127.0.0.1:33254
+Aug 08 10:35 : client: [1] opened from 127.0.0.1:33796
+Aug 08 10:35 : client: [1] closed
+Aug 08 12:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 12:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 12:41 : client: [0] opened from 127.0.0.1:45348
+Aug 08 14:41 : client: [1] opened from 127.0.0.1:46150
+Aug 08 14:41 : client: [1] closed
+Aug 08 16:11 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 08 20:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 20:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 20:44 : client: [0] opened from 127.0.0.1:51114
+Aug 08 20:44 : client: [1] opened from 127.0.0.1:51118
+Aug 08 20:44 : client: [1] closed
+Aug 08 22:10 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 09 18:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 18:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 18:50 : client: [0] opened from 127.0.0.1:60032
+Aug 09 19:51 : client: [1] opened from 127.0.0.1:60260
+Aug 09 19:51 : client: [1] closed
+Aug 09 21:40 : client: [2] opened from 127.0.0.1:60436
+Aug 09 21:40 : client: [2] closed
+Aug 09 22:23 : client: [3] opened from 127.0.0.1:60454
+Aug 09 22:23 : client: [3] closed
+Aug 09 22:23 : client: [4] opened from 127.0.0.1:60458
+Aug 09 22:23 : client: [4] closed
+Aug 09 22:23 : client: [5] opened from 127.0.0.1:60462
+Aug 09 22:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 22:23 : client: [5] closed
+Aug 09 22:23 : client: [6] opened from 127.0.0.1:60466
+Aug 09 22:23 : client: [6] closed
+Aug 09 22:23 : client: [7] opened from 127.0.0.1:60470
+Aug 09 22:23 : client: [7] closed
+Aug 09 22:23 : client: [8] opened from 127.0.0.1:60474
+Aug 09 22:23 : client: [8] closed
+Aug 09 22:24 : client: [9] opened from 127.0.0.1:60484
+Aug 09 22:24 : client: [9] closed
+Aug 09 22:24 : client: [10] opened from 127.0.0.1:60488
+Aug 09 22:24 : client: [10] closed
+Aug 09 22:24 : client: [11] opened from 127.0.0.1:60492
+Aug 09 22:24 : client: [11] closed
+Aug 09 22:24 : client: [12] opened from 127.0.0.1:60496
+Aug 09 22:24 : client: [12] closed
+Aug 09 22:24 : client: [13] opened from 127.0.0.1:60500
+Aug 09 22:24 : client: [13] closed
+Aug 09 22:24 : client: [14] opened from 127.0.0.1:60504
+Aug 09 22:24 : client: [14] closed
+Aug 10 00:13 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 10 11:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 11:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 11:55 : client: [0] opened from 127.0.0.1:52272
+Aug 10 11:57 : client: [0] closed
+Aug 10 11:57 : client: [1] opened from 127.0.0.1:52274
+Aug 10 13:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 13:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 13:01 : client: [0] opened from 127.0.0.1:52602
+Aug 10 13:03 : client: [0] closed
+Aug 10 13:03 : client: [1] opened from 127.0.0.1:52604
+Aug 10 13:09 : client: [2] opened from 127.0.0.1:52632
+Aug 10 13:09 : client: [2] closed
+Aug 10 15:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 15:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 15:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 15:43 : client: [0] opened from 127.0.0.1:52638
+Aug 10 16:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 16:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 16:06 : client: [0] opened from 127.0.0.1:47098
+Aug 10 16:53 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 10 21:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 21:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 21:37 : client: [0] opened from 127.0.0.1:59394
+Aug 10 21:47 : client: [1] opened from 127.0.0.1:59766
+Aug 10 21:47 : client: [1] closed
+Aug 10 21:47 : client: [2] opened from 127.0.0.1:59770
+Aug 10 21:47 : client: [2] closed
+Aug 10 21:47 : client: [3] opened from 127.0.0.1:59774
+Aug 10 21:47 : client: [3] closed
+Aug 10 21:47 : client: [4] opened from 127.0.0.1:59778
+Aug 10 21:47 : client: [4] closed
+Aug 10 21:51 : client: [5] opened from 127.0.0.1:59782
+Aug 10 21:51 : client: [5] closed
+Aug 10 21:51 : client: [6] opened from 127.0.0.1:59786
+Aug 10 21:51 : client: [6] closed
+Aug 10 21:51 : client: [7] opened from 127.0.0.1:59790
+Aug 10 21:51 : client: [7] closed
+Aug 10 21:51 : client: [8] opened from 127.0.0.1:59794
+Aug 10 21:51 : client: [8] closed
+Aug 10 21:52 : client: [9] opened from 127.0.0.1:59800
+Aug 10 21:52 : client: [9] closed
+Aug 10 21:52 : client: [10] opened from 127.0.0.1:59804
+Aug 10 21:52 : client: [10] closed
+Aug 10 21:52 : client: [11] opened from 127.0.0.1:59808
+Aug 10 21:52 : client: [11] closed
+Aug 10 21:52 : client: [12] opened from 127.0.0.1:59812
+Aug 10 21:52 : client: [12] closed
+Aug 10 21:52 : client: [13] opened from 127.0.0.1:59816
+Aug 10 21:52 : client: [13] closed
+Aug 10 21:52 : client: [14] opened from 127.0.0.1:59820
+Aug 10 21:52 : client: [14] closed
+Aug 10 21:52 : client: [15] opened from 127.0.0.1:59824
+Aug 10 21:52 : client: [15] closed
+Aug 10 21:52 : client: [16] opened from 127.0.0.1:59828
+Aug 10 21:52 : client: [16] closed
+Aug 10 21:54 : client: [17] opened from 127.0.0.1:59884
+Aug 10 21:54 : client: [17] closed
+Aug 10 21:54 : client: [18] opened from 127.0.0.1:59888
+Aug 10 21:54 : client: [18] closed
+Aug 10 21:54 : client: [19] opened from 127.0.0.1:59892
+Aug 10 21:54 : client: [19] closed
+Aug 10 21:54 : client: [20] opened from 127.0.0.1:59896
+Aug 10 21:54 : client: [20] closed
+Aug 10 21:54 : client: [21] opened from 127.0.0.1:59900
+Aug 10 21:54 : client: [21] closed
+Aug 10 21:54 : client: [22] opened from 127.0.0.1:59904
+Aug 10 21:54 : client: [22] closed
+Aug 10 21:54 : client: [23] opened from 127.0.0.1:59908
+Aug 10 21:54 : client: [23] closed
+Aug 10 21:54 : client: [24] opened from 127.0.0.1:59912
+Aug 10 21:54 : client: [24] closed
+Aug 10 21:55 : client: [25] opened from 127.0.0.1:59916
+Aug 10 21:55 : client: [25] closed
+Aug 10 21:55 : client: [26] opened from 127.0.0.1:59920
+Aug 10 21:55 : client: [26] closed
+Aug 10 21:55 : client: [27] opened from 127.0.0.1:59924
+Aug 10 21:55 : client: [27] closed
+Aug 10 21:55 : client: [28] opened from 127.0.0.1:59928
+Aug 10 21:55 : client: [28] closed
+Aug 10 21:57 : client: [29] opened from 127.0.0.1:59946
+Aug 10 21:57 : client: [29] closed
+Aug 10 21:57 : client: [30] opened from 127.0.0.1:59950
+Aug 10 21:57 : client: [30] closed
+Aug 10 21:57 : client: [31] opened from 127.0.0.1:59954
+Aug 10 21:57 : client: [31] closed
+Aug 10 21:57 : client: [32] opened from 127.0.0.1:59958
+Aug 10 21:57 : client: [32] closed
+Aug 10 21:58 : client: [33] opened from 127.0.0.1:59962
+Aug 10 21:58 : client: [33] closed
+Aug 10 21:58 : client: [34] opened from 127.0.0.1:59966
+Aug 10 21:58 : client: [34] closed
+Aug 10 21:58 : client: [35] opened from 127.0.0.1:59970
+Aug 10 21:58 : client: [35] closed
+Aug 10 21:58 : client: [36] opened from 127.0.0.1:59974
+Aug 10 21:58 : client: [36] closed
+Aug 10 21:58 : client: [37] opened from 127.0.0.1:59978
+Aug 10 21:58 : client: [37] closed
+Aug 10 21:58 : client: [38] opened from 127.0.0.1:59982
+Aug 10 21:58 : client: [38] closed
+Aug 10 21:58 : client: [39] opened from 127.0.0.1:59986
+Aug 10 21:58 : client: [39] closed
+Aug 10 21:58 : client: [40] opened from 127.0.0.1:59990
+Aug 10 21:58 : client: [40] closed
+Aug 10 21:58 : client: [41] opened from 127.0.0.1:59994
+Aug 10 21:58 : client: [41] closed
+Aug 10 21:58 : client: [42] opened from 127.0.0.1:59998
+Aug 10 21:58 : client: [42] closed
+Aug 10 21:58 : client: [43] opened from 127.0.0.1:60002
+Aug 10 21:58 : client: [43] closed
+Aug 10 21:58 : client: [44] opened from 127.0.0.1:60006
+Aug 10 21:58 : client: [44] closed
+Aug 10 22:00 : client: [45] opened from 127.0.0.1:60024
+Aug 10 22:00 : client: [45] closed
+Aug 10 22:00 : client: [46] opened from 127.0.0.1:60028
+Aug 10 22:00 : client: [46] closed
+Aug 10 22:00 : client: [47] opened from 127.0.0.1:60032
+Aug 10 22:00 : client: [47] closed
+Aug 10 22:00 : client: [48] opened from 127.0.0.1:60036
+Aug 10 22:00 : client: [48] closed
+Aug 10 22:02 : client: [49] opened from 127.0.0.1:60042
+Aug 10 22:02 : client: [49] closed
+Aug 10 22:02 : client: [50] opened from 127.0.0.1:60046
+Aug 10 22:02 : client: [50] closed
+Aug 10 22:02 : client: [51] opened from 127.0.0.1:60050
+Aug 10 22:02 : client: [51] closed
+Aug 10 22:02 : client: [52] opened from 127.0.0.1:60054
+Aug 10 22:02 : client: [52] closed
+Aug 10 22:04 : client: [53] opened from 127.0.0.1:60074
+Aug 10 22:04 : client: [53] closed
+Aug 10 22:04 : client: [54] opened from 127.0.0.1:60078
+Aug 10 22:04 : client: [54] closed
+Aug 10 22:04 : client: [55] opened from 127.0.0.1:60082
+Aug 10 22:04 : client: [55] closed
+Aug 10 22:04 : client: [56] opened from 127.0.0.1:60086
+Aug 10 22:04 : client: [56] closed
+Aug 10 22:17 : client: [0] closed
+Aug 10 22:21 : client: [57] opened from 127.0.0.1:60366
+Aug 10 22:24 : client: [57] closed
+Aug 10 22:24 : client: [58] opened from 127.0.0.1:60378
+Aug 10 22:25 : client: [58] closed
+Aug 10 22:25 : client: [59] opened from 127.0.0.1:60380
+Aug 10 22:25 : client: [59] closed
+Aug 10 22:27 : client: [60] opened from 127.0.0.1:60384
+Aug 10 22:27 : client: [61] opened from 127.0.0.1:60388
+Aug 10 22:27 : client: [61] closed
+Aug 10 22:27 : client: [62] opened from 127.0.0.1:60392
+Aug 10 22:27 : client: [62] closed
+Aug 10 22:27 : client: [63] opened from 127.0.0.1:60396
+Aug 10 22:27 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 10 22:27 : client: [63] closed
+Aug 10 22:28 : client: [60] closed
+Aug 10 22:28 : client: [64] opened from 127.0.0.1:60398
+Aug 10 22:28 : client: [65] opened from 127.0.0.1:60402
+Aug 10 22:28 : client: [65] closed
+Aug 10 22:28 : client: [66] opened from 127.0.0.1:60406
+Aug 10 22:28 : client: [66] closed
+Aug 10 22:28 : client: [67] opened from 127.0.0.1:60410
+Aug 10 22:28 : client: [67] closed
+Aug 10 22:28 : client: [68] opened from 127.0.0.1:60414
+Aug 10 22:28 : client: [68] closed
+Aug 11 13:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 13:20 : client: [0] opened from 127.0.0.1:50578
+Aug 11 13:20 : client: [1] opened from 127.0.0.1:50582
+Aug 11 13:20 : client: [1] closed
+Aug 11 13:20 : client: [2] opened from 127.0.0.1:50586
+Aug 11 13:20 : client: [2] closed
+Aug 11 13:21 : client: [3] opened from 127.0.0.1:50590
+Aug 11 13:21 : client: [3] closed
+Aug 11 13:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 13:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 13:21 : client: [4] opened from 127.0.0.1:50594
+Aug 11 13:21 : client: [4] closed
+Aug 11 13:21 : client: [5] opened from 127.0.0.1:50598
+Aug 11 13:21 : client: [5] closed
+Aug 11 13:21 : client: [6] opened from 127.0.0.1:50602
+Aug 11 13:21 : client: [6] closed
+Aug 11 13:21 : client: [7] opened from 127.0.0.1:50606
+Aug 11 13:21 : client: [7] closed
+Aug 11 13:21 : client: [8] opened from 127.0.0.1:50610
+Aug 11 13:21 : client: [8] closed
+Aug 11 13:21 : client: [9] opened from 127.0.0.1:50614
+Aug 11 13:21 : client: [9] closed
+Aug 11 13:21 : client: [10] opened from 127.0.0.1:50618
+Aug 11 13:21 : client: [10] closed
+Aug 11 13:23 : client: [11] opened from 127.0.0.1:50622
+Aug 11 13:23 : client: [11] closed
+Aug 11 13:23 : client: [12] opened from 127.0.0.1:50626
+Aug 11 13:23 : client: [12] closed
+Aug 11 13:23 : client: [13] opened from 127.0.0.1:50630
+Aug 11 13:23 : client: [13] closed
+Aug 11 13:23 : client: [14] opened from 127.0.0.1:50634
+Aug 11 13:23 : client: [14] closed
+Aug 11 13:23 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 11 13:23 : client: [15] opened from 127.0.0.1:50636
+Aug 11 13:23 : client: [15] closed
+Aug 11 13:23 : client: [16] opened from 127.0.0.1:50638
+Aug 11 13:23 : client: [16] closed
+Aug 11 13:23 : client: [17] opened from 127.0.0.1:50642
+Aug 11 13:23 : client: [18] opened from 127.0.0.1:50646
+Aug 11 13:23 : client: [18] closed
+Aug 11 13:23 : client: [19] opened from 127.0.0.1:50650
+Aug 11 13:23 : client: [19] closed
+Aug 11 13:23 : client: [20] opened from 127.0.0.1:50654
+Aug 11 13:23 : client: [20] closed
+Aug 11 13:23 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 11 13:24 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 11 13:24 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 11 13:24 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 11 13:24 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 11 13:25 : client: [17] closed
+Aug 11 13:26 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 11 13:29 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 11 13:29 : client: [21] opened from 127.0.0.1:50668
+Aug 11 13:29 : client: [21] closed
+Aug 11 13:29 : client: [22] opened from 127.0.0.1:50672
+Aug 11 13:29 : client: [22] closed
+Aug 11 13:29 : client: [23] opened from 127.0.0.1:50676
+Aug 11 13:29 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 11 13:29 : client: [23] closed
+Aug 11 23:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 23:03 : client: [0] opened from 127.0.0.1:39530
+Aug 11 23:03 : client: [0] closed
+Aug 11 23:03 : client: [1] opened from 127.0.0.1:39532
+Aug 12 22:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 22:13 : client: [0] opened from 127.0.0.1:42326
+Aug 12 22:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 22:45 : client: [0] opened from 127.0.0.1:55368
+Aug 12 22:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 22:50 : client: [0] opened from 127.0.0.1:45456
+Aug 12 23:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 23:11 : client: [0] opened from 127.0.0.1:36360
+Aug 12 23:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 23:15 : client: [0] opened from 127.0.0.1:36364
+Aug 13 11:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 11:46 : client: [0] opened from 127.0.0.1:42242
+Aug 13 13:37 : client: [1] opened from 127.0.0.1:42868
+Aug 13 13:37 : client: [1] closed
+Aug 13 13:53 : client: [2] opened from 127.0.0.1:42876
+Aug 13 13:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 13:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 13:54 : client: [2] closed
+Aug 13 14:49 : client: [3] opened from 127.0.0.1:43092
+Aug 13 14:49 : client: [3] closed
+Aug 13 14:49 : client: [4] opened from 127.0.0.1:43096
+Aug 13 14:49 : client: [4] closed
+Aug 13 14:49 : client: [5] opened from 127.0.0.1:43100
+Aug 13 14:49 : client: [5] closed
+Aug 13 14:49 : client: [6] opened from 127.0.0.1:43104
+Aug 13 14:49 : client: [6] closed
+Aug 13 14:52 : client: [0] closed
+Aug 13 14:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 14:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 14:52 : client: [0] opened from 127.0.0.1:43108
+Aug 13 14:52 : client: [1] opened from 127.0.0.1:43110
+Aug 13 14:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 14:52 : client: [1] closed
+Aug 13 14:52 : client: [2] opened from 127.0.0.1:43112
+Aug 13 14:52 : client: [2] closed
+Aug 13 14:53 : client: [3] opened from 127.0.0.1:43116
+Aug 13 14:53 : client: [3] closed
+Aug 13 14:53 : client: [4] opened from 127.0.0.1:43120
+Aug 13 14:53 : client: [4] closed
+Aug 13 14:59 : client: [5] opened from 127.0.0.1:43244
+Aug 13 14:59 : client: [5] closed
+Aug 13 14:59 : client: [6] opened from 127.0.0.1:43248
+Aug 13 14:59 : client: [6] closed
+Aug 13 15:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 15:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 15:05 : client: [0] opened from 127.0.0.1:51704
+Aug 13 15:06 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 13 15:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 15:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 15:08 : client: [0] opened from 127.0.0.1:56894
+Aug 13 15:51 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 13 21:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 21:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 21:36 : client: [0] opened from 127.0.0.1:40064
+Aug 14 00:03 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 14 12:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 12:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 12:32 : client: [0] opened from 127.0.0.1:53304
+Aug 14 12:52 : client: [0] closed
+Aug 14 12:52 : client: [1] opened from 127.0.0.1:54012
+Aug 14 12:53 : client: [1] closed
+Aug 14 12:53 : client: [2] opened from 127.0.0.1:54014
+Aug 14 12:59 : client: [2] closed
+Aug 14 12:59 : client: [3] opened from 127.0.0.1:54018
+Aug 14 13:02 : client: [4] opened from 127.0.0.1:54024
+Aug 14 13:02 : client: [4] closed
+Aug 14 13:02 : client: [5] opened from 127.0.0.1:54028
+Aug 14 13:02 : client: [5] closed
+Aug 14 16:08 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 14 17:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 17:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 17:02 : client: [0] opened from 127.0.0.1:55264
+Aug 14 19:33 : client: [1] opened from 127.0.0.1:55890
+Aug 14 19:33 : client: [1] closed
+Aug 14 19:33 : client: [2] opened from 127.0.0.1:55894
+Aug 14 19:33 : client: [2] closed
+Aug 14 19:34 : client: [3] opened from 127.0.0.1:55898
+Aug 14 19:34 : client: [3] closed
+Aug 14 19:34 : client: [4] opened from 127.0.0.1:55902
+Aug 14 19:34 : client: [4] closed
+Aug 14 20:28 : client: [5] opened from 127.0.0.1:56036
+Aug 14 20:28 : client: [5] closed
+Aug 14 22:51 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 14 22:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 22:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 22:55 : client: [0] opened from 127.0.0.1:39212
+Aug 14 23:06 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 14 23:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 23:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 23:08 : client: [0] opened from 127.0.0.1:59250
+Aug 14 23:25 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 14 23:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 23:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 23:27 : client: [0] opened from 127.0.0.1:35090
+Aug 14 23:34 : client: [0] closed
+Aug 14 23:37 : client: [1] opened from 127.0.0.1:35100
+Aug 14 23:42 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 14 23:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 23:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 23:43 : client: [0] opened from 127.0.0.1:56388
+Aug 14 23:56 : client: [0] closed
+Aug 14 23:56 : client: [1] opened from 127.0.0.1:56394
+Aug 14 23:56 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 14 23:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 23:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 23:58 : client: [0] opened from 127.0.0.1:48702
+Aug 15 00:02 : client: [0] closed
+Aug 15 00:03 : client: [1] opened from 127.0.0.1:48706
+Aug 15 00:15 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 15 00:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 00:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 00:17 : client: [0] opened from 127.0.0.1:42876
+Aug 15 00:17 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 15 00:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 00:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 00:19 : client: [0] opened from 127.0.0.1:36380
+Aug 15 00:34 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 15 10:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 10:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 10:20 : client: [0] opened from 127.0.0.1:57470
+Aug 15 10:22 : client: [1] opened from 127.0.0.1:57474
+Aug 15 10:22 : client: [1] closed
+Aug 15 10:22 : client: [2] opened from 127.0.0.1:57478
+Aug 15 10:22 : client: [2] closed
+Aug 15 10:23 : client: [3] opened from 127.0.0.1:57482
+Aug 15 10:23 : client: [3] closed
+Aug 15 10:23 : client: [4] opened from 127.0.0.1:57486
+Aug 15 10:23 : client: [4] closed
+Aug 15 11:31 : client: [0] closed
+Aug 15 11:31 : client: [5] opened from 127.0.0.1:57780
+Aug 15 11:31 : client: [6] opened from 127.0.0.1:57784
+Aug 15 11:31 : client: [6] closed
+Aug 15 11:31 : client: [7] opened from 127.0.0.1:57788
+Aug 15 11:31 : client: [7] closed
+Aug 15 11:31 : client: [8] opened from 127.0.0.1:57792
+Aug 15 11:31 : client: [8] closed
+Aug 15 11:31 : client: [9] opened from 127.0.0.1:57796
+Aug 15 11:31 : client: [9] closed
+Aug 15 11:34 : client: [10] opened from 127.0.0.1:57800
+Aug 15 11:34 : client: [10] closed
+Aug 15 12:51 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 15 14:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 14:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 14:53 : client: [0] opened from 127.0.0.1:45752
+Aug 15 14:55 : client: [1] opened from 127.0.0.1:45754
+Aug 15 14:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 14:55 : client: [1] closed
+Aug 15 14:55 : client: [2] opened from 127.0.0.1:45756
+Aug 15 14:55 : client: [2] closed
+Aug 15 15:28 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 15 15:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 15:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 15:32 : client: [0] opened from 127.0.0.1:33702
+Aug 15 15:34 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 15 15:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 15:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 15:44 : client: [0] opened from 127.0.0.1:54742
+Aug 15 15:47 : client: [1] opened from 127.0.0.1:54848
+Aug 15 15:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 15:47 : client: [1] closed
+Aug 15 15:49 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 15 15:50 : client: [2] opened from 127.0.0.1:54864
+Aug 15 15:50 : client: [2] closed
+Aug 15 16:18 : client: [3] opened from 127.0.0.1:55030
+Aug 15 16:18 : client: [3] closed
+Aug 15 22:27 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 15 23:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 23:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 23:35 : client: [0] opened from 127.0.0.1:44894
+Aug 16 00:15 : client: [1] opened from 127.0.0.1:45218
+Aug 16 00:15 : client: [1] closed
+Aug 07 21:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 21:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 21:58 : client: [0] opened from 127.0.0.1:47874
+Aug 07 22:20 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 07 21:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 21:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 21:58 : client: [0] opened from 127.0.0.1:39518
+Aug 07 21:58 : client: [0] closed
+Aug 07 21:59 : client: [1] opened from 127.0.0.1:39520
+Aug 07 22:12 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 07 21:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 21:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 21:58 : client: [0] opened from 127.0.0.1:58066
+Aug 16 14:14 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 16 19:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 19:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 19:59 : client: [0] opened from 127.0.0.1:52350
+Aug 16 21:14 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 17 07:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 07:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 07:21 : client: [0] opened from 127.0.0.1:58330
+Aug 17 12:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 12:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 12:34 : client: [0] opened from 127.0.0.1:46746
+Aug 17 12:37 : client: [0] closed
+Aug 17 12:37 : client: [1] opened from 127.0.0.1:46748
+Aug 17 12:41 : client: [1] closed
+Aug 17 12:41 : client: [2] opened from 127.0.0.1:46752
+Aug 17 14:58 : client: [3] opened from 127.0.0.1:48030
+Aug 17 14:58 : client: [3] closed
+Aug 17 15:12 : client: [4] opened from 127.0.0.1:48062
+Aug 17 15:12 : client: [4] closed
+Aug 17 21:22 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 18 06:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 06:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 06:43 : client: [0] opened from 127.0.0.1:43656
+Aug 18 07:09 : client: [1] opened from 127.0.0.1:44232
+Aug 18 07:09 : client: [1] closed
+Aug 18 08:37 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 18 08:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 08:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 08:43 : client: [0] opened from 127.0.0.1:36468
+Aug 18 08:58 : client: [0] closed
+Aug 18 09:00 : client: [1] opened from 127.0.0.1:36708
+Aug 18 09:03 : client: [2] opened from 127.0.0.1:36714
+Aug 18 09:03 : client: [3] opened from 127.0.0.1:36718
+Aug 18 09:03 : client: [3] closed
+Aug 18 09:03 : client: [4] opened from 127.0.0.1:36722
+Aug 18 09:03 : client: [4] closed
+Aug 18 09:03 : client: [5] opened from 127.0.0.1:36726
+Aug 18 09:03 : client: [5] closed
+Aug 18 09:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 09:03 : client: [2] closed
+Aug 18 09:04 : client: [6] opened from 127.0.0.1:36730
+Aug 18 09:04 : client: [7] opened from 127.0.0.1:36734
+Aug 18 09:04 : client: [7] closed
+Aug 18 09:04 : client: [8] opened from 127.0.0.1:36738
+Aug 18 09:04 : client: [8] closed
+Aug 18 09:04 : client: [9] opened from 127.0.0.1:36742
+Aug 18 09:04 : client: [9] closed
+Aug 18 09:04 : client: [6] closed
+Aug 18 13:45 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 18 20:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 20:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 20:22 : client: [0] opened from 127.0.0.1:39972
+Aug 18 20:49 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 19 06:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 06:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 06:41 : client: [0] opened from 127.0.0.1:53018
+Aug 19 09:55 : client: [1] opened from 127.0.0.1:53992
+Aug 19 09:55 : client: [1] closed
+Aug 19 09:55 : client: [2] opened from 127.0.0.1:53996
+Aug 19 09:55 : client: [2] closed
+Aug 19 09:55 : client: [3] opened from 127.0.0.1:54000
+Aug 19 09:55 : client: [3] closed
+Aug 19 09:55 : client: [4] opened from 127.0.0.1:54004
+Aug 19 09:55 : client: [4] closed
+Aug 19 09:59 : client: [5] opened from 127.0.0.1:54010
+Aug 19 09:59 : client: [5] closed
+Aug 19 09:59 : client: [6] opened from 127.0.0.1:54014
+Aug 19 09:59 : client: [6] closed
+Aug 19 10:00 : client: [7] opened from 127.0.0.1:54018
+Aug 19 10:00 : client: [7] closed
+Aug 19 10:00 : client: [8] opened from 127.0.0.1:54022
+Aug 19 10:00 : client: [8] closed
+Aug 19 10:02 : client: [9] opened from 127.0.0.1:54028
+Aug 19 10:02 : client: [9] closed
+Aug 19 10:02 : client: [10] opened from 127.0.0.1:54032
+Aug 19 10:02 : client: [10] closed
+Aug 19 10:04 : client: [11] opened from 127.0.0.1:54036
+Aug 19 10:04 : client: [11] closed
+Aug 19 10:04 : client: [12] opened from 127.0.0.1:54040
+Aug 19 10:04 : client: [12] closed
+Aug 19 10:25 : client: [13] opened from 127.0.0.1:54104
+Aug 19 10:25 : client: [13] closed
+Aug 19 10:25 : client: [14] opened from 127.0.0.1:54108
+Aug 19 10:25 : client: [14] closed
+Aug 19 10:26 : client: [15] opened from 127.0.0.1:54112
+Aug 19 10:26 : client: [15] closed
+Aug 19 10:26 : client: [16] opened from 127.0.0.1:54116
+Aug 19 10:26 : client: [16] closed
+Aug 19 10:26 : client: [17] opened from 127.0.0.1:54126
+Aug 19 10:26 : client: [17] closed
+Aug 19 10:26 : client: [18] opened from 127.0.0.1:54130
+Aug 19 10:26 : client: [18] closed
+Aug 19 13:45 : client: [0] closed
+Aug 19 13:45 : client: [19] opened from 127.0.0.1:56050
+Aug 19 13:47 : client: [19] closed
+Aug 19 13:47 : client: [20] opened from 127.0.0.1:56054
+Aug 19 15:27 : client: [21] opened from 127.0.0.1:56814
+Aug 19 15:27 : client: [21] closed
+Aug 19 16:47 : client: [20] closed
+Aug 19 16:47 : client: [22] opened from 127.0.0.1:56818
+Aug 19 16:48 : client: [22] closed
+Aug 19 16:48 : client: [23] opened from 127.0.0.1:56820
+Aug 19 16:48 : client: [23] closed
+Aug 19 16:49 : client: [24] opened from 127.0.0.1:56824
+Aug 19 16:49 : client: [25] opened from 127.0.0.1:56828
+Aug 19 16:49 : client: [25] closed
+Aug 19 16:49 : client: [26] opened from 127.0.0.1:56832
+Aug 19 16:49 : client: [26] closed
+Aug 19 16:50 : client: [24] closed
+Aug 19 16:50 : client: [27] opened from 127.0.0.1:56834
+Aug 19 16:51 : client: [27] closed
+Aug 19 16:51 : client: [28] opened from 127.0.0.1:56836
+Aug 19 16:51 : client: [28] closed
+Aug 19 16:51 : client: [29] opened from 127.0.0.1:56838
+Aug 19 16:52 : client: [30] opened from 127.0.0.1:56842
+Aug 19 16:52 : client: [30] closed
+Aug 19 16:52 : client: [31] opened from 127.0.0.1:56846
+Aug 19 16:52 : client: [31] closed
+Aug 19 16:52 : client: [32] opened from 127.0.0.1:56850
+Aug 19 16:52 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 19 16:52 : client: [32] closed
+Aug 19 16:52 : client: [29] closed
+Aug 19 16:52 : client: [33] opened from 127.0.0.1:56852
+Aug 19 16:53 : client: [33] closed
+Aug 19 16:53 : client: [34] opened from 127.0.0.1:56854
+Aug 19 16:53 : client: [34] closed
+Aug 19 16:53 : client: [35] opened from 127.0.0.1:56856
+Aug 19 16:55 : client: [35] closed
+Aug 19 16:55 : client: [36] opened from 127.0.0.1:56860
+Aug 19 16:57 : client: [36] closed
+Aug 19 16:57 : client: [37] opened from 127.0.0.1:56862
+Aug 19 16:57 : client: [37] closed
+Aug 19 16:57 : client: [38] opened from 127.0.0.1:56864
+Aug 19 16:58 : client: [38] closed
+Aug 19 16:58 : client: [39] opened from 127.0.0.1:56866
+Aug 19 16:59 : client: [39] closed
+Aug 19 16:59 : client: [40] opened from 127.0.0.1:56870
+Aug 19 16:59 : client: [40] closed
+Aug 19 16:59 : client: [41] opened from 127.0.0.1:56872
+Aug 19 17:00 : client: [41] closed
+Aug 19 17:00 : client: [42] opened from 127.0.0.1:56874
+Aug 19 17:00 : client: [42] closed
+Aug 19 17:00 : client: [43] opened from 127.0.0.1:56876
+Aug 19 17:03 : client: [43] closed
+Aug 19 17:03 : client: [44] opened from 127.0.0.1:56880
+Aug 19 17:03 : client: [45] opened from 127.0.0.1:56882
+Aug 19 17:03 : client: [44] closed
+Aug 19 17:03 : client: [45] closed
+Aug 19 17:03 : client: [46] opened from 127.0.0.1:56884
+Aug 19 17:03 : client: [47] opened from 127.0.0.1:56886
+Aug 19 17:03 : client: [46] closed
+Aug 19 17:03 : client: [47] closed
+Aug 19 17:03 : client: [48] opened from 127.0.0.1:56888
+Aug 19 17:03 : client: [49] opened from 127.0.0.1:56890
+Aug 19 17:03 : client: [48] closed
+Aug 19 17:03 : client: [49] closed
+Aug 19 17:03 : client: [50] opened from 127.0.0.1:56892
+Aug 19 17:03 : client: [51] opened from 127.0.0.1:56894
+Aug 19 17:03 : client: [50] closed
+Aug 19 17:03 : client: [51] closed
+Aug 19 17:03 : client: [52] opened from 127.0.0.1:56896
+Aug 19 17:03 : client: [53] opened from 127.0.0.1:56898
+Aug 19 17:03 : client: [52] closed
+Aug 19 17:03 : client: [53] closed
+Aug 19 17:03 : client: [54] opened from 127.0.0.1:56902
+Aug 19 17:03 : client: [55] opened from 127.0.0.1:56904
+Aug 19 17:04 : client: [54] closed
+Aug 19 17:04 : client: [55] closed
+Aug 19 17:04 : client: [56] opened from 127.0.0.1:56906
+Aug 19 17:04 : client: [57] opened from 127.0.0.1:56908
+Aug 19 17:04 : client: [56] closed
+Aug 19 17:04 : client: [57] closed
+Aug 19 17:04 : client: [58] opened from 127.0.0.1:56910
+Aug 19 17:04 : client: [59] opened from 127.0.0.1:56912
+Aug 19 17:04 : client: [58] closed
+Aug 19 17:04 : client: [59] closed
+Aug 19 17:04 : client: [60] opened from 127.0.0.1:56914
+Aug 19 17:04 : client: [61] opened from 127.0.0.1:56916
+Aug 19 17:04 : client: [60] closed
+Aug 19 17:04 : client: [61] closed
+Aug 19 17:04 : client: [62] opened from 127.0.0.1:56918
+Aug 19 17:04 : client: [63] opened from 127.0.0.1:56920
+Aug 19 17:04 : client: [62] closed
+Aug 19 17:04 : client: [63] closed
+Aug 19 17:04 : client: [64] opened from 127.0.0.1:56922
+Aug 19 17:04 : client: [65] opened from 127.0.0.1:56924
+Aug 19 17:04 : client: [64] closed
+Aug 19 17:04 : client: [65] closed
+Aug 19 17:04 : client: [66] opened from 127.0.0.1:56926
+Aug 19 17:04 : client: [67] opened from 127.0.0.1:56928
+Aug 19 17:04 : client: [68] opened from 127.0.0.1:56930
+Aug 19 17:04 : client: [68] closed
+Aug 19 17:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 17:04 : client: [69] opened from 127.0.0.1:56932
+Aug 19 17:04 : client: [69] closed
+Aug 19 17:08 : client: [66] closed
+Aug 19 17:08 : client: [67] closed
+Aug 19 17:09 : client: [70] opened from 127.0.0.1:57068
+Aug 19 17:11 : client: [71] opened from 127.0.0.1:57072
+Aug 19 17:11 : client: [71] closed
+Aug 19 17:11 : client: [72] opened from 127.0.0.1:57076
+Aug 19 17:11 : client: [72] closed
+Aug 19 17:16 : client: [70] closed
+Aug 19 17:16 : client: [73] opened from 127.0.0.1:57080
+Aug 19 17:16 : client: [74] opened from 127.0.0.1:57084
+Aug 19 17:16 : client: [74] closed
+Aug 19 17:16 : client: [75] opened from 127.0.0.1:57088
+Aug 19 17:16 : client: [75] closed
+Aug 19 17:16 : client: [76] opened from 127.0.0.1:57092
+Aug 19 17:16 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 19 17:16 : client: [76] closed
+Aug 19 17:17 : client: [73] closed
+Aug 19 17:17 : client: [77] opened from 127.0.0.1:57094
+Aug 19 17:18 : client: [77] closed
+Aug 19 17:18 : client: [78] opened from 127.0.0.1:57096
+Aug 19 17:19 : client: [78] closed
+Aug 19 17:19 : client: [79] opened from 127.0.0.1:57100
+Aug 19 18:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 18:25 : client: [0] opened from 127.0.0.1:38898
+Aug 19 18:26 : client: [1] opened from 127.0.0.1:38900
+Aug 19 18:26 : client: [1] closed
+Aug 19 18:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 18:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 18:27 : client: [2] opened from 127.0.0.1:38974
+Aug 19 18:27 : client: [2] closed
+Aug 19 19:34 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 20 11:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 11:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 11:33 : client: [0] opened from 127.0.0.1:49100
+Aug 20 12:00 : client: [1] opened from 127.0.0.1:49496
+Aug 20 12:00 : client: [2] opened from 127.0.0.1:49500
+Aug 20 12:00 : client: [2] closed
+Aug 20 12:00 : client: [3] opened from 127.0.0.1:49504
+Aug 20 12:00 : client: [3] closed
+Aug 20 12:00 : client: [4] opened from 127.0.0.1:49508
+Aug 20 12:00 : client: [4] closed
+Aug 20 12:01 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 20 12:01 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 20 12:01 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 20 12:01 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 20 12:01 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 20 12:01 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Aug 20 12:08 : client: [1] closed
+Aug 20 12:10 : client: [5] opened from 127.0.0.1:49688
+Aug 20 12:10 : client: [5] closed
+Aug 20 12:10 : client: [6] opened from 127.0.0.1:49692
+Aug 20 12:10 : client: [6] closed
+Aug 20 12:10 : client: [7] opened from 127.0.0.1:49696
+Aug 20 12:10 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 20 12:10 : client: [7] closed
+Aug 20 12:10 : client: [0] closed
+Aug 20 12:10 : client: [8] opened from 127.0.0.1:49698
+Aug 20 12:11 : client: [8] closed
+Aug 20 12:11 : client: [9] opened from 127.0.0.1:49700
+Aug 20 12:12 : client: [9] closed
+Aug 20 12:12 : client: [10] opened from 127.0.0.1:49702
+Aug 20 12:59 : client: [10] closed
+Aug 20 13:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 13:06 : client: [0] opened from 127.0.0.1:48450
+Aug 20 14:23 : client: [1] opened from 127.0.0.1:49014
+Aug 20 14:23 : client: [1] closed
+Aug 20 18:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 18:36 : client: [0] opened from 127.0.0.1:60764
+Aug 20 19:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 19:41 : client: [0] opened from 127.0.0.1:38488
+Aug 20 20:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 20:44 : client: [0] opened from 127.0.0.1:52296
+Aug 24 16:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 16:33 : client: [0] opened from 127.0.0.1:53396
+Aug 24 16:40 : client: [1] opened from 127.0.0.1:53506
+Aug 24 16:40 : client: [1] closed
+Aug 24 18:04 : client: [2] opened from 127.0.0.1:54780
+Aug 24 18:04 : client: [2] closed
+Aug 24 18:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 18:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 18:04 : client: [3] opened from 127.0.0.1:54782
+Aug 24 18:04 : client: [3] closed
+Aug 24 18:04 : client: [4] opened from 127.0.0.1:54788
+Aug 24 18:04 : client: [4] closed
+Aug 24 18:04 : client: [5] opened from 127.0.0.1:54792
+Aug 24 18:04 : client: [5] closed
+Aug 24 18:04 : client: [6] opened from 127.0.0.1:54796
+Aug 24 18:04 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 24 18:04 : client: [6] closed
+Aug 25 07:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 07:56 : client: [0] opened from 127.0.0.1:34724
+Aug 25 07:57 : client: [0] closed
+Aug 25 07:57 : client: [1] opened from 127.0.0.1:34726
+Aug 25 09:19 : client: [2] opened from 127.0.0.1:35146
+Aug 25 09:19 : client: [2] closed
+Aug 25 11:29 : client: [1] closed
+Aug 25 11:29 : client: [3] opened from 127.0.0.1:35192
+Aug 25 12:15 : client: [3] closed
+Aug 25 12:15 : client: [4] opened from 127.0.0.1:35566
+Aug 25 12:15 : client: [5] opened from 127.0.0.1:35568
+Aug 25 12:18 : client: [4] closed
+Aug 25 12:18 : client: [5] closed
+Aug 25 12:18 : client: [6] opened from 127.0.0.1:35578
+Aug 25 12:18 : client: [7] opened from 127.0.0.1:35580
+Aug 25 12:22 : client: [6] closed
+Aug 25 12:22 : client: [7] closed
+Aug 25 12:22 : client: [8] opened from 127.0.0.1:35584
+Aug 25 12:22 : client: [9] opened from 127.0.0.1:35586
+Aug 25 12:22 : client: [10] opened from 127.0.0.1:35588
+Aug 25 12:22 : client: [10] closed
+Aug 25 12:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 12:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 12:25 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 25 12:25 : client: [11] opened from 127.0.0.1:35598
+Aug 25 12:25 : client: [11] closed
+Aug 25 12:26 : client: [8] closed
+Aug 25 12:26 : client: [9] closed
+Aug 25 12:28 : client: [12] opened from 127.0.0.1:35600
+Aug 25 12:28 : client: [13] opened from 127.0.0.1:35602
+Aug 25 12:31 : client: [12] closed
+Aug 25 12:31 : client: [13] closed
+Aug 25 12:31 : client: [14] opened from 127.0.0.1:35614
+Aug 25 12:31 : client: [15] opened from 127.0.0.1:35616
+Aug 25 12:31 : client: [14] closed
+Aug 25 12:31 : client: [15] closed
+Aug 25 12:31 : client: [16] opened from 127.0.0.1:35618
+Aug 25 12:31 : client: [17] opened from 127.0.0.1:35620
+Aug 25 12:31 : client: [16] closed
+Aug 25 12:31 : client: [17] closed
+Aug 25 12:31 : client: [18] opened from 127.0.0.1:35622
+Aug 25 12:31 : client: [19] opened from 127.0.0.1:35624
+Aug 25 12:31 : client: [18] closed
+Aug 25 12:31 : client: [19] closed
+Aug 25 12:31 : client: [20] opened from 127.0.0.1:35626
+Aug 25 12:31 : client: [21] opened from 127.0.0.1:35628
+Aug 25 12:32 : client: [20] closed
+Aug 25 12:32 : client: [21] closed
+Aug 25 12:32 : client: [22] opened from 127.0.0.1:35630
+Aug 25 12:32 : client: [23] opened from 127.0.0.1:35632
+Aug 25 12:34 : client: [22] closed
+Aug 25 12:34 : client: [23] closed
+Aug 25 12:34 : client: [24] opened from 127.0.0.1:35636
+Aug 25 12:34 : client: [25] opened from 127.0.0.1:35640
+Aug 25 12:34 : client: [25] closed
+Aug 25 12:34 : client: [26] opened from 127.0.0.1:35644
+Aug 25 12:34 : client: [26] closed
+Aug 25 12:34 : client: [27] opened from 127.0.0.1:35648
+Aug 25 12:34 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Aug 25 12:34 : client: [27] closed
+Aug 25 12:35 : client: [24] closed
+Aug 25 12:35 : client: [28] opened from 127.0.0.1:35650
+Aug 25 12:36 : client: [28] closed
+Aug 25 12:36 : client: [29] opened from 127.0.0.1:35652
+Aug 25 12:36 : client: [29] closed
+Aug 25 12:36 : client: [30] opened from 127.0.0.1:35654
+Aug 25 12:41 : client: [30] closed
+Aug 25 12:41 : client: [31] opened from 127.0.0.1:35658
+Aug 25 12:44 : client: [31] closed
+Aug 25 12:44 : client: [32] opened from 127.0.0.1:35662
+Aug 25 12:45 : client: [32] closed
+Aug 25 12:45 : client: [33] opened from 127.0.0.1:35664
+Aug 25 12:45 : client: [33] closed
+Aug 25 12:45 : client: [34] opened from 127.0.0.1:35666
+Aug 25 12:47 : client: [34] closed
+Aug 25 12:47 : client: [35] opened from 127.0.0.1:35668
+Aug 25 12:48 : client: [35] closed
+Aug 25 12:48 : client: [36] opened from 127.0.0.1:35670
+Aug 25 12:48 : client: [36] closed
+Aug 25 12:48 : client: [37] opened from 127.0.0.1:35672
+Aug 25 12:54 : client: [37] closed
+Aug 25 12:54 : client: [38] opened from 127.0.0.1:35678
+Aug 25 13:33 : client: [39] opened from 127.0.0.1:35956
+Aug 25 13:33 : client: [39] closed
+Aug 25 17:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 17:08 : client: [0] opened from 127.0.0.1:57512
+Aug 25 17:09 : client: [0] closed
+Aug 25 17:09 : client: [1] opened from 127.0.0.1:57514
+Aug 26 09:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 09:56 : client: [0] opened from 127.0.0.1:33304
+Aug 26 10:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 10:52 : client: [0] opened from 127.0.0.1:59540
+Aug 26 12:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 12:57 : client: [0] opened from 127.0.0.1:47216
+Aug 26 13:43 : client: [1] opened from 127.0.0.1:47238
+Aug 26 13:43 : client: [1] closed
+Aug 26 17:11 : client: [2] opened from 127.0.0.1:47912
+Aug 26 17:11 : client: [2] closed
+Aug 26 17:11 : client: [3] opened from 127.0.0.1:47916
+Aug 26 17:11 : client: [3] closed
+Aug 26 17:39 : client: [4] opened from 127.0.0.1:48404
+Aug 26 17:39 : client: [4] closed
+Aug 27 19:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 19:40 : client: [0] opened from 127.0.0.1:41628
+Aug 28 15:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 15:41 : client: [0] opened from 127.0.0.1:35656
+Aug 28 20:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 20:33 : client: [0] opened from 127.0.0.1:38752
+Aug 29 06:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 06:34 : client: [0] opened from 127.0.0.1:39144
+Aug 29 08:19 : client: [1] opened from 127.0.0.1:40478
+Aug 29 08:19 : client: [1] closed
+Aug 29 11:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 11:13 : client: [0] opened from 127.0.0.1:35116
+Aug 29 12:16 : client: [0] closed
+Aug 29 12:16 : client: [1] opened from 127.0.0.1:35176
+Aug 29 20:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 20:35 : client: [0] opened from 127.0.0.1:36862
+Aug 29 20:37 : client: [0] closed
+Aug 29 20:37 : client: [1] opened from 127.0.0.1:36864
+Aug 30 07:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 07:45 : client: [0] opened from 127.0.0.1:54316
+Aug 31 16:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 16:00 : client: [0] opened from 127.0.0.1:36426
+Aug 31 17:43 : client: [1] opened from 127.0.0.1:36676
+Aug 31 17:43 : client: [1] closed
+Aug 31 18:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 18:24 : client: [0] opened from 127.0.0.1:40812
+Sep 01 18:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 18:39 : client: [0] opened from 127.0.0.1:36978
+Sep 01 20:44 : client: [1] opened from 127.0.0.1:37386
+Sep 01 20:44 : client: [1] closed
+Sep 03 18:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 18:25 : client: [0] opened from 127.0.0.1:37386
+Sep 04 19:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 04 19:46 : client: [0] opened from 127.0.0.1:48454
+Sep 06 09:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 06 09:16 : client: [0] opened from 127.0.0.1:50950
+Sep 06 12:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 06 12:09 : client: [0] opened from 127.0.0.1:35840
+Sep 06 18:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 06 18:35 : client: [0] opened from 127.0.0.1:47728
+Sep 07 17:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 07 17:20 : client: [0] opened from 127.0.0.1:52130
+Sep 07 19:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 07 19:39 : client: [0] opened from 127.0.0.1:41674
+Sep 09 14:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 09 14:23 : client: [0] opened from 127.0.0.1:56324
+Sep 09 17:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 09 17:19 : client: [0] opened from 127.0.0.1:55366
+Sep 09 18:46 : avahi: Service 'Music Player @ archlinux' successfully established.
+Sep 12 10:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 10:36 : client: [0] opened from 127.0.0.1:39160
+Sep 13 07:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 07:27 : client: [0] opened from 127.0.0.1:39602
+Sep 13 08:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 08:04 : client: [0] opened from 127.0.0.1:57680
+Sep 13 14:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 14:59 : client: [0] opened from 127.0.0.1:50102
+Sep 13 19:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 19:47 : client: [0] opened from 127.0.0.1:55782
+Sep 14 13:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 13:42 : client: [0] opened from 127.0.0.1:51166
+Sep 14 13:53 : client: [0] closed
+Sep 14 13:53 : client: [1] opened from 127.0.0.1:51180
+Sep 14 20:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 20:11 : client: [0] opened from 127.0.0.1:45102
+Sep 15 20:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 20:18 : client: [0] opened from 127.0.0.1:59426
+Sep 16 19:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 19:06 : client: [0] opened from 127.0.0.1:57574
+Sep 20 20:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 20:41 : client: [0] opened from 127.0.0.1:51300
+Sep 22 11:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 11:23 : client: [0] opened from 127.0.0.1:43740
+Sep 22 17:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 23 11:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 24 09:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 24 17:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 10:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 11:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 11:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 11:16 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Sep 25 11:17 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Sep 25 18:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 18:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 18:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 18:49 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Sep 26 07:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 29 19:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 19:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 02 18:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 16:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 11 10:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 18:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 20:10 : update: added /Dabro Remix - Улетай На Крыльях Ветра.mp3
+Oct 14 12:31 : avahi: Service 'Music Player @ archlinux' successfully established.
+Oct 25 10:41 : update: added /8. Timmy Trumpet - Oracle (Official Music Video).mp3
+Oct 25 10:41 : update: added /7. Blasterjaxx & Timmy Trumpet - Narco (Official Music Video).mp3
+Oct 25 10:41 : update: added /1. Purebeat b2b Steve Judge Live @ 2019.03.31 Coronita After - Bp. Rio.mp3
+Oct 25 10:41 : update: added /2. Odabaszós Coronita Minimal Techno 2018 Szeptember DJ Rych Mix.mp3
+Oct 25 10:41 : update: added /6. Timmy Trumpet & KSHMR feat. Zafrir - The Prayer [Official Audio Video].mp3
+Oct 25 10:41 : update: added /5. R3HAB x Timmy Trumpet - 911 (Official Video).mp3
+Oct 25 10:41 : update: added /0. BLR x Rave & Crave - Taj (Official Music Video).mp3
+Oct 25 10:41 : update: added /3. Steve Judge - Moving India (Purebeat Remix).mp3
+Oct 25 10:41 : update: added /4. F.Physical - La Banda (MALVØ Remix).mp3
+Oct 25 10:42 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Oct 25 10:59 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Oct 25 11:02 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Oct 25 11:02 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Oct 25 11:02 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Oct 25 11:02 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Oct 25 11:02 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Oct 25 11:02 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Oct 25 11:02 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Oct 25 11:10 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Oct 29 19:24 : player: played "2. Odabaszós Coronita Minimal Techno 2018 Szeptember DJ Rych Mix.mp3"
+Oct 31 18:03 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Oct 31 22:34 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 01 11:26 : player: played "3. Steve Judge - Moving India (Purebeat Remix).mp3"
+Nov 01 20:55 : player: played "3. Steve Judge - Moving India (Purebeat Remix).mp3"
+Nov 02 17:57 : player: played "3. Steve Judge - Moving India (Purebeat Remix).mp3"
+Nov 02 17:57 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Nov 02 18:00 : player: played "1. Purebeat b2b Steve Judge Live @ 2019.03.31 Coronita After - Bp. Rio.mp3"
+Nov 02 18:04 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 02 18:07 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Nov 02 21:07 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Nov 03 21:29 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Nov 05 21:09 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Nov 06 21:16 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Nov 08 09:43 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Nov 08 10:01 : player: played "7. Blasterjaxx & Timmy Trumpet - Narco (Official Music Video).mp3"
+Nov 08 10:04 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Nov 08 10:11 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 08 14:28 : player: played "1. Purebeat b2b Steve Judge Live @ 2019.03.31 Coronita After - Bp. Rio.mp3"
+Nov 08 16:19 : player: played "1. Purebeat b2b Steve Judge Live @ 2019.03.31 Coronita After - Bp. Rio.mp3"
+Nov 12 21:00 : player: played "1. Purebeat b2b Steve Judge Live @ 2019.03.31 Coronita After - Bp. Rio.mp3"
+Nov 13 21:34 : player: played "1. Purebeat b2b Steve Judge Live @ 2019.03.31 Coronita After - Bp. Rio.mp3"
+Nov 15 21:34 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 18 20:35 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 20 19:06 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 20 21:46 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 21 09:46 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Nov 21 15:19 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 22 21:14 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 23 22:08 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 24 12:36 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 24 21:33 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 25 14:48 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 25 21:50 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 27 10:45 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 27 11:03 : avahi: Service 'Music Player @ archlinux' successfully established.
+Nov 27 14:16 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 27 21:27 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Nov 28 20:02 : avahi: Service 'Music Player @ archlinux' successfully established.
+Nov 28 21:50 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 03 21:14 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 04 20:38 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 04 21:43 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 05 21:24 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 08 18:06 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 08 18:22 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 08 20:20 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 12 22:15 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 13 20:56 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+                                                                                       Dec 14 21:17 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 15 17:54 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 15 21:55 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 16 16:27 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 16 21:53 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 17 18:20 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 18 15:17 : player: played "1. Purebeat b2b Steve Judge Live @ 2019.03.31 Coronita After - Bp. Rio.mp3"
+Dec 18 15:40 : player: played "1. Purebeat b2b Steve Judge Live @ 2019.03.31 Coronita After - Bp. Rio.mp3"
+Dec 18 19:44 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory
+Dec 18 19:48 : player: played "Dabro Remix - Улетай На Крыльях Ветра.mp3"
+Dec 18 21:40 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 19 13:22 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 20 08:37 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 20 12:18 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 20 18:45 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 20 19:13 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 22 20:33 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 23 14:44 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 23 21:27 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 24 15:26 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 25 12:09 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 25 17:28 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 26 22:17 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 27 21:14 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 28 21:09 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 29 14:57 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 29 16:03 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 29 16:13 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 29 16:16 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 29 16:21 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 29 16:50 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 29 17:08 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 29 17:10 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 29 17:32 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 29 17:33 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 29 20:32 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 30 09:02 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 30 14:51 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 30 15:00 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 30 15:06 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 30 22:11 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Dec 31 17:44 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Jan 01 02:03 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Jan 01 20:18 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Jan 01 20:45 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Jan 02 13:45 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Jan 02 15:14 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Jan 02 17:07 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Jan 02 17:22 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Jan 02 23:09 : player: played "0. BLR x Rave & Crave - Taj (Official Music Video).mp3"
+Jan 03 11:49 : exception: Failed to open /home/steve/.mpd/playlists: No such file or directory

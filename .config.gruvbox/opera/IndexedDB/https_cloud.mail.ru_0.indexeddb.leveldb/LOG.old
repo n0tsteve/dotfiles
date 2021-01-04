@@ -1,0 +1,15 @@
+2020/10/12-19:57:52.715 5f20 Reusing MANIFEST /home/steve/.config/opera/IndexedDB/https_cloud.mail.ru_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/12-19:57:52.715 5f20 Recovering log #43
+2020/10/12-19:57:52.715 5f20 Reusing old log /home/steve/.config/opera/IndexedDB/https_cloud.mail.ru_0.indexeddb.leveldb/000043.log 
+2020/10/12-19:58:24.719 5f55 Level-0 table #48: started
+2020/10/12-19:58:25.876 5f55 Level-0 table #48: 758 bytes OK
+2020/10/12-19:58:25.927 5f55 Delete type=0 #43
+2020/10/12-19:58:25.927 5f55 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/12-19:58:25.927 5f55 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x01$\x00d\x00d\x008\x00c\x009\x008\x008\x003\x00-\x00a\x00f\x004\x003\x00-\x004\x003\x003\x007\x00-\x008\x00a\x004\x00f\x00-\x003\x001\x00e\x006\x007\x003\x003\x000\x002\x008\x002\x00e\x00\x01$\x00d\x00d\x008\x00c\x009\x008\x008\x003\x00-\x00a\x00f\x004\x003\x00-\x004\x003\x003\x007\x00-\x008\x00a\x004\x00f\x00-\x003\x001\x00e\x006\x007\x003\x003\x000\x002\x008\x002\x00e' @ 342 : 1
+2020/10/12-19:58:25.927 5f55 Compacting 1@1 + 1@2 files
+2020/10/12-19:58:25.960 5f55 Generated table #49@1: 28 keys, 1098 bytes
+2020/10/12-19:58:25.960 5f55 Compacted 1@1 + 1@2 files => 1098 bytes
+2020/10/12-19:58:26.012 5f55 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/12-19:58:26.012 5f55 Delete type=2 #45
+2020/10/12-19:58:26.013 5f55 Delete type=2 #48
+2020/10/12-19:58:26.013 5f55 Manual compaction at level-1 from '\x00\x01\x01\x1f\x01$\x00d\x00d\x008\x00c\x009\x008\x008\x003\x00-\x00a\x00f\x004\x003\x00-\x004\x003\x003\x007\x00-\x008\x00a\x004\x00f\x00-\x003\x001\x00e\x006\x007\x003\x003\x000\x002\x008\x002\x00e\x00\x01$\x00d\x00d\x008\x00c\x009\x008\x008\x003\x00-\x00a\x00f\x004\x003\x00-\x004\x003\x003\x007\x00-\x008\x00a\x004\x00f\x00-\x003\x001\x00e\x006\x007\x003\x003\x000\x002\x008\x002\x00e' @ 342 : 1 .. (end); will stop at (end)

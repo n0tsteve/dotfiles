@@ -1,0 +1,23 @@
+<application>
+  <component name="WindowManager">
+    <layout>
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="555" y="289" width="800" height="534" key="Rider.ProjectTemplateDialog.Size" timestamp="1596708835315">
+      <screen x="10" y="38" width="1900" height="1032" />
+    </state>
+    <state x="555" y="289" width="800" height="534" key="Rider.ProjectTemplateDialog.Size/10.38.1900.1032" timestamp="1596708835315" />
+    <state x="960" y="554" key="WELCOME_SCREEN" timestamp="1596708836510">
+      <screen x="10" y="38" width="1900" height="1032" />
+    </state>
+    <state x="960" y="554" key="WELCOME_SCREEN/10.38.1900.1032" timestamp="1596708836510" />
+  </component>
+</application>

@@ -1,0 +1,33 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="25" last="1596706404010" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="2" last="1596706343978" />
+      </entry>
+      <entry key="NewFile">
+        <ActionSummary times="1" last="1596706236436" />
+      </entry>
+      <entry key="NewProject">
+        <ActionSummary times="1" last="1596708869269" />
+      </entry>
+      <entry key="WelcomeScreen.CreateNewProject">
+        <ActionSummary times="1" last="1596706083677" />
+      </entry>
+      <entry key="WelcomeScreen.Plugins">
+        <ActionSummary times="1" last="1596706031954" />
+      </entry>
+      <entry key="WelcomeScreen.Settings">
+        <ActionSummary times="1" last="1596706067513" />
+      </entry>
+      <entry key="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+        <ActionSummary times="2" last="1596708108701" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$2">
+        <ActionSummary times="2" last="1596706065685" />
+      </entry>
+    </data>
+  </component>
+</application>

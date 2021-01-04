@@ -1,0 +1,3 @@
+#!/bin/bash
+
+xbacklight -inc 10 && python ~/.local/bin/notify-send.py -u low --replaces-process "brightness" "Brightness Inc : $(~/.config/openbox/bin/backlight)%"

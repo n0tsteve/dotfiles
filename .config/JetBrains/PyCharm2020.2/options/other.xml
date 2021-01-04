@@ -1,0 +1,30 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="SettingsSearchHistory" value="plug" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="PY-202.6397.98-f39cb15d0133068f90babfc4ade5a791b7ae13b195b5df11b0a49b64792526c5" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="evlsprt.202" value="1745dc8c6e2" />
+    <property name="evlsprt2.202" value="17438fc418a" />
+    <property name="evlsprt3.202" value="19" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.gist.reindex.count" value="5491" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ideavim.statistics.timestamp" value="1596709429511" />
+    <property name="lastSeenTip" value="neue-VcsQuickList.html" />
+    <property name="lastTimeTipsWereShown" value="1599241795483" />
+    <property name="seenTips" value="neue-recent-locations.html,neue-jump_to_colors_fonts.html,neue-ChangesView.html,neue-db_tip_forget_cached_schemas.html,neue-VcsQuickList.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.9.5" />
+  </component>
+</application>

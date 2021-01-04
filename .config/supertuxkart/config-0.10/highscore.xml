@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<highscores version="4">
+  <highscore track-name    ="abyss"
+             number-karts  ="2"
+             difficulty    ="1"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="1"
+             reverse       ="false">
+             <entry time    ="68.0568"
+                    name    ="steve"
+                    kartname="tux"/>
+             <entry time    ="68.8543"
+                    name    ="steve"
+                    kartname="tux"/>
+             <entry time    ="70.4745"
+                    name    ="steve"
+                    kartname="tux"/>
+             <entry time    ="71.0133"
+                    name    ="steve"
+                    kartname="wilber"/>
+  </highscore>
+</highscores>

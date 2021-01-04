@@ -1,0 +1,91 @@
+ 
+New instance of bashtop version: 0.9.24 Pid: 12791
+ 
+New instance of bashtop version: 0.9.24 Pid: 20909
+ 
+New instance of bashtop version: 0.9.24 Pid: 9110
+14:50:40 ERROR: On line 4353 
+ 
+New instance of bashtop version: 0.9.24 Pid: 5625
+ 
+New instance of bashtop version: 0.9.24 Pid: 3522
+09:06:24 ERROR: On line 680 
+ 
+New instance of bashtop version: 0.9.24 Pid: 9380
+ 
+New instance of bashtop version: 0.9.25 Pid: 4974
+error: process ID out of range
+
+Usage:
+ ps [options]
+
+ Try 'ps --help <simple|list|output|threads|misc|all>'
+  or 'ps --help <s|l|o|t|m|a>'
+ for additional help text.
+
+For more details see ps(1).
+18:38:24 ERROR: On line 2457 
+ 
+New instance of bashtop version: 0.9.25 Pid: 11182
+ 
+New instance of bashtop version: 0.9.25 Pid: 13651
+ 
+New instance of bashtop version: 0.9.25 Pid: 14489
+ 
+New instance of bashtop version: 0.9.25 Pid: 19074
+/usr/bin/bashtop: line 4025: echo: write error: Broken pipe
+19:42:12 ERROR: On line 4025 
+/usr/bin/bashtop: line 595: echo: write error: Broken pipe
+19:42:12 ERROR: On line 595 
+/usr/bin/bashtop: line 597: echo: write error: Broken pipe
+19:42:12 ERROR: On line 597 
+ 
+New instance of bashtop version: 0.9.25 Pid: 19685
+/usr/bin/bashtop: line 595: echo: write error: Broken pipe
+/usr/bin/bashtop: line 597: echo: write error: Broken pipe
+ 
+New instance of bashtop version: 0.9.25 Pid: 19766
+ 
+New instance of bashtop version: 0.9.25 Pid: 19885
+ 
+New instance of bashtop version: 0.9.25 Pid: 22816
+ 
+New instance of bashtop version: 0.9.25 Pid: 2142
+19:19:41 ERROR: On line 4353 
+19:19:41 ERROR: On line 4353 
+stty: 'standard input': Input/output error
+19:19:41 ERROR: On line 4356 
+ 
+New instance of bashtop version: 0.9.25 Pid: 1841
+ 
+New instance of bashtop version: 0.9.25 Pid: 8553
+10:45:02 ERROR: On line 4353 
+10:45:02 ERROR: On line 4353 
+stty: 'standard input': Input/output error
+10:45:02 ERROR: On line 4356 
+ 
+New instance of bashtop version: 0.9.25 Pid: 57975
+10:40:03 ERROR: On line 4353 
+10:40:03 ERROR: On line 4353 
+ 
+New instance of bashtop version: 0.9.25 Pid: 24303
+ 
+New instance of bashtop version: 0.9.25 Pid: 47168
+ 
+New instance of bashtop version: 0.9.25 Pid: 54867
+ 
+New instance of bashtop version: 0.9.25 Pid: 6618
+ 
+New instance of bashtop version: 0.9.25 Pid: 1797
+ 
+New instance of bashtop version: 0.9.25 Pid: 6040
+17:00:53 ERROR: On line 4353 
+17:00:53 ERROR: On line 4353 
+stty: 'standard input': Input/output error
+ 
+New instance of bashtop version: 0.9.25 Pid: 3028
+10:18:01 ERROR: On line 4353 
+10:18:01 ERROR: On line 4353 
+stty: 'standard input': Input/output error
+ 
+New instance of bashtop version: 0.9.25 Pid: 133529

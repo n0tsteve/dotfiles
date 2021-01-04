@@ -1,0 +1,25 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="MarketplacePluginsSearchHistory" value="gruv&#10;gru&#10;gr&#10;ugr&#10;vugr" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Kotlin" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.example" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="IU-202.6397.94-320fee05083d7b6455fdf2f4cd6cf1aba0cb9f6d41d9c669c5107622eb07c3ee" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.202" value="16" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.72-release-IJ2020.1-6" />
+    <property name="jdk.selected.JAVA_MODULE" value="14" />
+    <property name="lastSeenTip" value="neue-InspectCode.html" />
+    <property name="lastTimeTipsWereShown" value="1596706147497" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1596706139422" />
+    <property name="project.wizard.group" value="EMPTY_MODULE" />
+    <property name="project.wizard.template" value="Empty Project" />
+    <property name="seenTips" value="neue-InspectCode.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.9.5" />
+  </component>
+</application>

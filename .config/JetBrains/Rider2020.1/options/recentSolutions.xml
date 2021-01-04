@@ -1,0 +1,13 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="groups">
+      <list>
+        <ProjectGroup>
+          <option name="name" value="Tutorials" />
+          <option name="projectPaths" value="Catch exceptions, use conditional breakpoints, and more:Learn how to run your apps in Rider:Use the editor efficiently with shortcuts, code completion, live templates...:Set breakpoints, step through code, and more:Add unit tests to your projects, run them, and analyze results:Do almost any VCS operation right in the IDE:Be more productive with Rider typing assists" />
+          <option name="tutorials" value="true" />
+        </ProjectGroup>
+      </list>
+    </option>
+  </component>
+</application>

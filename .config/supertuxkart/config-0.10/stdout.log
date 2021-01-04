@@ -1,0 +1,507 @@
+[info   ] [FileManager]: Data files will be fetched from: '/usr/share/supertuxkart/data/'
+[info   ] [FileManager]: User directory is '/home/steve/.config/supertuxkart/config-0.10/'.
+[info   ] [FileManager]: Addons files will be stored in '/home/steve/.local/share/supertuxkart/addons/'.
+[info   ] [FileManager]: Screenshots will be stored in '/home/steve/.local/share/supertuxkart/screenshots/'.
+[info   ] [FileManager]: User-defined grand prix will be stored in '/home/steve/.local/share/supertuxkart/grandprix/'.
+[info   ] [FileManager]: Asset 0 will be loaded from '/usr/share/supertuxkart/data/challenges/'.
+[info   ] [FileManager]: Asset 1 will be loaded from '/usr/share/supertuxkart/data/gfx/'.
+[info   ] [FileManager]: Asset 2 will be loaded from '/usr/share/supertuxkart/data/grandprix/'.
+[info   ] [FileManager]: Asset 3 will be loaded from '/usr/share/supertuxkart/data/gui/icons/'.
+[info   ] [FileManager]: Asset 4 will be loaded from '/usr/share/supertuxkart/data/gui/screens/'.
+[info   ] [FileManager]: Asset 5 will be loaded from '/usr/share/supertuxkart/data/gui/dialogs/'.
+[info   ] [FileManager]: Asset 6 will be loaded from '/usr/share/supertuxkart/data/replay/'.
+[info   ] [FileManager]: Asset 7 will be loaded from '/usr/share/supertuxkart/data/shaders/'.
+[info   ] [FileManager]: Asset 8 will be loaded from '/usr/share/supertuxkart/data/skins/'.
+[info   ] [FileManager]: Asset 9 will be loaded from '/usr/share/supertuxkart/data/ttf/'.
+[info   ] [FileManager]: Asset 10 will be loaded from '/usr/share/supertuxkart/data/po/'.
+[info   ] [FileManager]: Asset 11 will be loaded from '/usr/share/supertuxkart/data/library/'.
+[info   ] [FileManager]: Asset 12 will be loaded from '/usr/share/supertuxkart/data/models/'.
+[info   ] [FileManager]: Asset 13 will be loaded from '/usr/share/supertuxkart/data/music/'.
+[info   ] [FileManager]: Asset 14 will be loaded from '/usr/share/supertuxkart/data/sfx/'.
+[info   ] [FileManager]: Asset 15 will be loaded from '/usr/share/supertuxkart/data/textures/'.
+[info   ] [FileManager]: Asset 16 will be loaded from '/usr/share/supertuxkart/data/tracks/'.
+[verbose  ] translation: Env var LANGUAGE = 'hu_HU.UTF-8'.
+[verbose  ] translation: Language 'Hungarian (Hungary)'.
+[info   ] tinygettext: Adding language fallback hu
+
+[info   ] IrrDriver: OpenGL version: 4.6
+[info   ] IrrDriver: OpenGL vendor: Intel
+[info   ] IrrDriver: OpenGL renderer: Mesa Intel(R) HD Graphics 610 (KBL GT1)
+[info   ] IrrDriver: OpenGL version string: 4.6 (Core Profile) Mesa 20.1.6
+[info   ] GLDriver: ARB Buffer Storage Present
+[info   ] GLDriver: ARB Compute Shader Present
+[info   ] GLDriver: ARB Arrays of Arrays Present
+[info   ] GLDriver: ARB Texture Storage Present
+[info   ] GLDriver: ARB Texture View Present
+[info   ] GLDriver: ARB Image Load Store Present
+[info   ] GLDriver: ARB Shader Atomic Counters Present
+[info   ] GLDriver: ARB Shader Storage Buffer Object Present
+[info   ] GLDriver: EXT Texture Compression S3TC Present
+[info   ] GLDriver: ARB Uniform Buffer Object Present
+[info   ] GLDriver: ARB Explicit Attrib Location Present
+[info   ] GLDriver: EXT Texture Filter Anisotropic Present
+[info   ] GLDriver: Geometry Shaders Present
+[info   ] GLDriver: ARB Texture Buffer Object Present
+[info   ] GLDriver: ARB Texture Swizzle Present
+[info   ] GLDriver: ARB Pixel Buffer Object Present
+[info   ] GLDriver: ARB Sampler Objects Present
+[info   ] GLDriver: ARB Vertex Type 2_10_10_10_rev Present
+[info   ] GLDriver: ARB Instanced Arrays Present
+[info   ] SharedGPUObjects: Hardware Skinning enabled, method: TBO, max bones: 1024
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/screenquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/motion_blur.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/lightning.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/primitive2dlist.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/transparent.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/texturedquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/uniformcolortexturedquad.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/texturedquad.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/coloredquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/coloredquad.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/colortexturedquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/colortexturedquad.frag
+[info   ] irr_driver: GLSL supported.
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_pass.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_solid.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_shadow.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/white.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_skinning.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_skinning_shadow.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_normal_map.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_alpha_test.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_shadow_alpha_test.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_decal.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_grass_pass.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_grass.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_grass_shadow.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_unlit.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_transparent.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_ghost.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_dynamic_night_bloom.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_tilling_mitigation.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_vertical_mapping.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_road_blending.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_displace.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/colorize.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_normal_visualizer.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_normal_visualizer.geom
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_normal_visualizer.frag
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/xml/online_news.xml
+[info   ] addons: Downloading updated addons.xml.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/xml/online_assets.xml
+[info   ] GrandPrixManager: Loading Grand Prix files from /usr/share/supertuxkart/data/grandprix/
+[info   ] GrandPrixManager: Loading Grand Prix files from /home/steve/.local/share/supertuxkart/grandprix/
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/1110206859552da39065475.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/133980091559fba011afd5.png
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/2053082975b9825000b89d.png
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/2030464435579b69650be77.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/17991952215936aba775168.png
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/5658544735c38e5d7a3a23.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/64209190755a0183d3e321.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/131833742857f1883e6f943.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/9628163575f502b09cfc97.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/6706612615f4e5b44981c6.png
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/simple_particle.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/simple_particle.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/alphatest_particle.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/alphatest_particle.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/degraded_ibl.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sunlight.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/pointlight.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/pointlight.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/combine_diffuse_color.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/tonemap.frag
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/5332795595f511ab23f3dc.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/7169215875f50101d405f7.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/20895969115ea50e09e34c0.jpg
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/13491522845eab68f258739.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/16483294775f087d6c0a789.png
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/15134064695c8af7068feea.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/9614599945a1dd8a688363.png
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/193576690259f6d509d08b1.png
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/18177953955ea45fb9eaea8.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/192933518357c9f2185797b.png
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/13345281345e047b0f16ba3.jpg
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/13602474285f2ea0514431c.png
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/737508365f275ea04c76d.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/21236357415d3c20065ff53.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/5109685925ce56ed993916.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/64884550359f60deeb04b3.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/550814445f19e7245a890.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/20624466255f00d1a066f20.png
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/16655988975d356d64195ab.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/19168180985e921f25b4404.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/11530952835e921e5858a11.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/15874431005e921e272ba1f.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/7394783115e77bccb31465.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/13470688385e81e09e00b42.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/20559402915d52c7a8aac7d.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/1400332175f147f7413b87.png
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/14167439265cfd973141252.jpg
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] AbstractTopLevelContainer::addWidgetsRecursively: Widget target-type-spinner of type 1 has no dimensions
+[warn   ] AbstractTopLevelContainer::addWidgetsRecursively: Widget target-type-text of type 5 has no dimensions
+[warn   ] AbstractTopLevelContainer::addWidgetsRecursively: Widget ai-blue-spinner of type 1 has no dimensions
+[warn   ] AbstractTopLevelContainer::addWidgetsRecursively: Widget ai-blue-text of type 5 has no dimensions
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/15440294995790717868b40.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/1781196575f4a7537abcf1.png
+[verbose  ] RaceManager: Nb of karts=2, ghost karts:0 ai:1 players:1
+
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/3885737185edba329d68ef.jpg
+[info   ] [FileManager]: Creating directory(ies) '/home/steve/.cache/supertuxkart/cached-textures/hd/tracks/abyss'
+[info   ] FileManager: Creating directory '/home/steve/.cache/supertuxkart/cached-textures/hd/tracks/abyss/'.
+[info   ] Track: Overall scene complexity estimated at 422
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/6980848865f17c195ba615.png
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/importance_sampling_specular.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sky.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sky.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/passthrough.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/dof.frag
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/57159955057e9a6a38bfc1.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/1277760467579566325940e.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/20796432465ebec34256a53.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/7985991215e7926aa80654.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/12005990755773a0a62d55d.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/32999604857af930517f49.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/107058844357f409c5b09ee.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/176150136058054d4e322e5.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/1556603765f239fe6d6187.png
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/282609651579ab558c1d8e.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/81112465057b4c05f48214.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/7382768215621832f5da3a.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/12888561325e1525f60b900.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/14814799165d07ce1557c82.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/8243788155f105622132eb.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/14859306095da47d584c34d.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/127867390359f3bc5fe5401.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/16167177735c8af72c4f0ed.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/3828350335b8568a49e3ba.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/5215895955544ef4360b0e.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/37471687257f186ff39a5c.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/13603783085dad4a364508e.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/4059169065e9ecaf17ba01.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/5133696195f328bd94afe1.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/165516576157b1b6f779f61.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/18521102025b83cb9a0cb83.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/3529879735d85b59209b4e.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/18654244855edcd7c9eb8c3.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/9817543185b5255511d099.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/5170888395d2894a70aecb.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/1617090342552dac0f8725e.jpg
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/7139189725f087fb98b4e9.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/5376340765f2bd9a69cddc.JPG
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/115118492659f60f0475930.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/17331535905c757378b2b75.png
+[warn   ] SFXManager: Throttling sfx - queue size 61
+[warn   ] SFXManager: Throttling sfx - queue size 61
+[warn   ] SFXManager: Throttling sfx - queue size 61
+[warn   ] SFXManager: Throttling sfx - queue size 61
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/101715639657b4ca11a140b.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/132911446757c6f3575d9e7.png
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/7132402625ea8717b17d78.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/177139058358054f1ceecd4.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/11227681205f4613ffd8165.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/8494235845f0bf46ed6047.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/195647572056ac7e882919d.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/10319646925e94764b051a1.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/8673466725d73d298a5019.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/7322645655d2a406009dc3.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/214556686057b1ad42ebe5b.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/14606253165df5efde9439c.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/955860409579b6c2c1d1cd.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/19600135457fc0f138176e.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/11699105405ea18da0c812f.png
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/15579609265f1d5dd522c00.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/167531504955a018e112b6f.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/9360508655dcc163d69e02.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/1064850522579b6a6aef275.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/1838708305c1a976d5524b.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/54420315957bc60f648f3c.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/9963073635935e4ca103b0.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/21385291425935e4b533aa3.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/8804736135935e49b11b8b.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/207807376859358e81efc4f.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/3058050365b8953563fe0d.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/346344363593fb9678017b.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/2224202005f1d5dff6b0e0.png
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/125606579955a018a5570cd.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/5928592875ed3ef643c83c.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/10438776005d2cde5c24a58.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/591653763559fb9a584e85.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/11606159585ed7cd0314910.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/188022339155a016c52e9fe.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/73308758057bc1337c9630.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/921785223559faf34a5a02.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/14076422565891085850954.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/192859015657bd4d556d037.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/5191038805ecc0af7094af.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/21347800515ea8715bd4703.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/42575372759fbb7f11f1e8.png
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/14417981375b684cbfc5fe9.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/112534143559fbaff01554d.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/151819521759fe4ffd81113.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/14086680845b6a96e8398c2.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/7415974885ec4385d80878.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/29290248357b1b069524ec.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/16891886795cd314abb8a7c.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/105040796557bc5ea648bf1.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/114683601057c4f49eab31f.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/353177304580004aec852b.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/2038095505578fb2951800f.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/27092958579ab4e6350a4.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/1419562009566f7d83d147a.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/40421520552d9e5a35b38.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/671675118566f7ca802638.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/11725869675df34e682e565.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/130018703155a018810f2ed.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/50713536457b1b00257983.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/7764618915ecc0a9b5ba51.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/8392153865d289939486e6.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/2792396575c954b8e01fc0.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/170211887857b1ad8e88014.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/73764510559fbabeee00f.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/167487739957c10a04461e7.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/6570202635a1ea1c452ed7.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/7021530565f0b35e341526.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/1039362205a22d89c38d30.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/179049290957b4bf531df0f.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/19829840385b3698de85c2a.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/1365211875ef72aa085da1.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/7480054735c950604aee51.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/26221296857d805e31746f.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/10989970555f3695cc733a0.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/120408576057a139b790121.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/761369642571470009d4c8.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/4083865495f1e64f2d6c5d.png
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/855348329559fba8690787.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/34852851657d3013b537f2.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/23382723557b1af4ff3663.png
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/5477579915d39eb61afda3.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/181658511257bc5fecdbdb0.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/37679009755a01723cf6a9.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/319376971578fca8f312d9.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/198374405859f656d679add.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/9846944265d29b6806cb87.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/20117915235e2308c72707b.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/21052198975dbd4a9cd2c8c.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/7012030195eb479c6dd85f.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/7580248915b83daa5a5cd1.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/188171965e901207152a1.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/5452888865a02d455018d9.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/14833381845726389081598.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/185551597579d23dd6f518.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/74633238155a017949d694.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/153392961956ba7db858dd5.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/688978620571fbc2ce36cb.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/1542081685559edc64160d0.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/3978877635a25086499654.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/249644655931060f5fb4c.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/77260915579b6b1a87e64.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/113457809157bd5f33568d5.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/59659152757bac46d701ba.png
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/176869512579b6f3907189.png
+[info   ] HTTPRequest: Downloading 
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/14930849195937fc7c619f9.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/9747905155ce6cd697780a.png
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/images/159024492855672935bcc2e.png
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] AbstractTopLevelContainer::addWidgetsRecursively: Widget target-type-spinner of type 1 has no dimensions
+[warn   ] AbstractTopLevelContainer::addWidgetsRecursively: Widget target-type-text of type 5 has no dimensions
+[warn   ] AbstractTopLevelContainer::addWidgetsRecursively: Widget ai-blue-spinner of type 1 has no dimensions
+[warn   ] AbstractTopLevelContainer::addWidgetsRecursively: Widget ai-blue-text of type 5 has no dimensions
+[verbose  ] RaceManager: Nb of karts=2, ghost karts:0 ai:1 players:1
+
+[info   ] Track: Overall scene complexity estimated at 422
+[warn   ] RibbonWidget: All the buttons of the focused ribbon are deactivated !
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Python', defaulting to 'light'.
+[warn   ] KartProperties: Can't find kart type '' for kart 'Golf GTI', defaulting to 'light'.
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[info   ] HTTPRequest: Sending username=steve&password=**************&password_confirm=**************&email=ipopovics06%40gmail.com&terms=on to https://online.supertuxkart.net/api/v2/user/register/
+[info   ] HTTPRequest: Sending username=styopka&password=**************&password_confirm=**************&email=ipopovics06%40gmail.com&terms=on to https://online.supertuxkart.net/api/v2/user/register/
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[info   ] HTTPRequest: Sending username=styopka&password=**************&save-session=true to https://online.supertuxkart.net/api/v2/user/connect/
+[info   ] HTTPRequest: Sending userid=249842&token=************************&visitingid=249842 to https://online.supertuxkart.net/api/v2/user/get-friends-list/
+[info   ] HTTPRequest: Sending userid=249842&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/api/v2/server/get-all/
+[info   ] STKHost: Host initialized.
+[info   ] ConnectToServer: SETUP
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been started.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/api/v2/server/get-all/
+[info   ] ConnectToServer: Registering addr 31.41.90.246:43955
+[info   ] HTTPRequest: Sending userid=249842&token=************************&server-id=176565&address=522803958&port=43955&aes-key=****************************&aes-iv=YLIBmD97R4GVnnwd to https://online.supertuxkart.net/api/v2/server/join-server-key/
+[info   ] ConnectToServer: Trying connecting to 46.101.182.25:19994 from port 43057, retry remain: 3
+[info   ] ConnectToServer: Connected to 46.101.182.25:19994
+[info   ] ProtocolManager: A 11ClientLobby protocol has been started.
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been terminated.
+[info   ] STKHost: Listening has been started.
+[info   ] ClientLobby: Server will validate this online player.
+[info   ] ClientLobby: Synchronous message of type 2
+[error  ] STKHost: Kapcsolódás elutasítva: a kiszolgáló megtelt.
+[info   ] ProtocolManager: A 11ClientLobby protocol has been terminated.
+[info   ] HTTPRequest: Sending userid=249842&token=************************ to https://online.supertuxkart.net/api/v2/server/clear-user-joined-server/
+[info   ] STKHost: Listening has been stopped.
+[info   ] STKHost: Host initialized.
+[info   ] ConnectToServer: SETUP
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been started.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/api/v2/server/get-all/
+[info   ] ConnectToServer: Registering addr 31.41.90.246:36074
+[info   ] HTTPRequest: Sending userid=249842&token=************************&server-id=175571&address=522803958&port=36074&aes-key=******************************&aes-iv=R5tjXMCXxw3fMAT%2B to https://online.supertuxkart.net/api/v2/server/join-server-key/
+[info   ] ConnectToServer: Trying connecting to 46.101.182.25:19991 from port 35030, retry remain: 3
+[info   ] ConnectToServer: Connected to 46.101.182.25:19991
+[info   ] ProtocolManager: A 11ClientLobby protocol has been started.
+[info   ] STKHost: Listening has been started.
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been terminated.
+[info   ] ClientLobby: Server will validate this online player.
+[info   ] ClientLobby: Synchronous message of type 4
+[info   ] ClientLobby: Synchronous message of type 6
+[info   ] ClientLobby: Synchronous message of type 3
+[info   ] ClientLobby: The server accepted the connection.
+[info   ] ClientLobby: Synchronous message of type 18
+[info   ] ClientLobby: Synchronous message of type 6
+[info   ] NetworkTimerSynchronizer: Network timer synchronized, difference: 0ms
+[info   ] ClientLobby: Synchronous message of type 12
+[info   ] ClientLobby: Selection starts now
+[info   ] ClientLobby: Synchronous message of type 16
+[info   ] ClientLobby: Synchronous message of type 16
+[info   ] ClientLobby: Synchronous message of type 16
+[info   ] ClientLobby: Synchronous message of type 16
+[info   ] ClientLobby: Synchronous message of type 10
+[info   ] LobbyProtocol: Player configuration ready.
+[info   ] LobbyProtocol: Ready !
+[verbose  ] RaceManager: Nb of karts=4, ghost karts:0 ai:0 players:4
+
+[info   ] Track: Overall scene complexity estimated at 757
+[info   ] NetworkPlayerController: New network player controller.
+[info   ] NetworkPlayerController: New network player controller.
+[info   ] NetworkPlayerController: New network player controller.
+[info   ] ProtocolManager: A 12GameProtocol protocol has been started.
+[info   ] ProtocolManager: A 18GameEventsProtocol protocol has been started.
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sp_text_billboard.frag
+[info   ] ClientLobby: Synchronous message of type 11
+[info   ] HTTPRequest: Sending userid=249842&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[warn   ] SFXManager: Throttling sfx - queue size 101
+[info   ] HTTPRequest: Sending userid=249842&token=************************ to https://online.supertuxkart.net/api/v2/user/poll/
+[info   ] ClientLobby: Synchronous message of type 13
+[info   ] ClientLobby: Server notified that the race is finished.
+[info   ] ProtocolManager: A 18GameEventsProtocol protocol has been terminated.
+[info   ] ProtocolManager: A 12GameProtocol protocol has been terminated.
+[info   ] ProtocolManager: A 11ClientLobby protocol has been terminated.
+[info   ] STKHost: Listening has been stopped.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] HTTPRequest: Sending userid=249842&token=************************ to https://online.supertuxkart.net/api/v2/server/clear-user-joined-server/
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/api/v2/server/get-all/
+[info   ] ServerInfoDialog: Server id is 174852, owner is 16
+[info   ] STKHost: Host initialized.
+[info   ] ConnectToServer: SETUP
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been started.
+[info   ] ConnectToServer: Registering addr 31.41.90.246:48358
+[info   ] HTTPRequest: Sending userid=249842&token=************************&server-id=174852&address=522803958&port=48358&aes-key=****************************&aes-iv=ng1tqavv5UZ%2FrSMB to https://online.supertuxkart.net/api/v2/server/join-server-key/
+[info   ] ConnectToServer: Trying connecting to 83.230.14.9:2760 from port 60353, retry remain: 3
+[info   ] ConnectToServer: Connected to 83.230.14.9:2760
+[info   ] ProtocolManager: A 11ClientLobby protocol has been started.
+[info   ] ProtocolManager: A 15ConnectToServer protocol has been terminated.
+[info   ] STKHost: Listening has been started.
+[info   ] ClientLobby: Server will validate this online player.
+[info   ] ClientLobby: Synchronous message of type 4
+[info   ] ClientLobby: Synchronous message of type 6
+[info   ] ClientLobby: Synchronous message of type 3
+[info   ] ClientLobby: The server accepted the connection.
+[info   ] ProtocolManager: A 11ClientLobby protocol has been terminated.
+[info   ] HTTPRequest: Sending userid=249842&token=************************ to https://online.supertuxkart.net/api/v2/server/clear-user-joined-server/
+[info   ] STKHost: Listening has been stopped.
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/api/v2/server/get-all/
+[info   ] HTTPRequest: Sending userid=249842&token=************************ to https://online.supertuxkart.net/api/v2/user/client-quit/
+[verbose  ] Thread: Start waiting 1518019.505000
+[verbose  ] Thread: Waited 0.631000 seconds for thread to become deleteable.
+[verbose  ] Thread: Stop waiting 1518020.136000
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.

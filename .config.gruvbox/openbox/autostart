@@ -1,0 +1,30 @@
+## Restore Wallpaper
+nitrogen --restore
+
+## xfce4-settings daemon
+xfsettingsd &
+
+## Start Compositing Manager
+exec picom -b &
+
+## Launch bars
+sh ~/.config/polybar/launch.sh
+# tint2 &
+
+## Start Music Player Daemon
+exec mpd &
+
+## Notification Daemon
+exec deadd-notification-center &
+
+## Thunar Daemon
+exec thunar --daemon &
+
+## Enable Super Keys For Menu
+ksuperkey -e 'Super_L=Alt_L|F1' &
+ksuperkey -e 'Super_R=Alt_L|F1' &
+
+## Enable power management
+xfce4-power-manager &
+
+discord &

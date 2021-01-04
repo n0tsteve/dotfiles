@@ -1,0 +1,57 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Undo">
+        <ActionSummary times="5" last="1598682942490" />
+      </entry>
+      <entry key="CompileDirty">
+        <ActionSummary times="2" last="1598683160085" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="26" last="1598683133663" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="3" last="1598683050826" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="2" last="1598683029346" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="11" last="1598683081253" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="55" last="1598683066578" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="3" last="1598683050418" />
+      </entry>
+      <entry key="NewClass">
+        <ActionSummary times="1" last="1598682917297" />
+      </entry>
+      <entry key="NewFile">
+        <ActionSummary times="2" last="1598682975589" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="1" last="1598683089423" />
+      </entry>
+      <entry key="Tree-selectNext">
+        <ActionSummary times="3" last="1598682950474" />
+      </entry>
+      <entry key="Tree-selectPrevious">
+        <ActionSummary times="1" last="1598682947891" />
+      </entry>
+      <entry key="WelcomeScreen.CreateNewProject">
+        <ActionSummary times="1" last="1598682817801" />
+      </entry>
+      <entry key="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+        <ActionSummary times="2" last="1598682956281" />
+      </entry>
+      <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
+        <ActionSummary times="4" last="1598683147784" />
+      </entry>
+      <entry key="editRunConfigurations">
+        <ActionSummary times="1" last="1598683095937" />
+      </entry>
+    </data>
+  </component>
+</application>

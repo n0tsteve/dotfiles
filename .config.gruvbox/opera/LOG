@@ -1,0 +1,37 @@
+2020/10/12-19:35:43.465 58e8 Delete type=3 #1
+2020/10/12-19:46:31.778 5f5a Level-0 table #5: started
+2020/10/12-19:46:31.978 5f5a Level-0 table #5: 10950 bytes OK
+2020/10/12-19:46:32.119 5f5a Delete type=0 #3
+2020/10/12-19:47:09.365 5f5a Level-0 table #7: started
+2020/10/12-19:47:10.022 5f5a Level-0 table #7: 10888 bytes OK
+2020/10/12-19:47:10.156 5f5a Delete type=0 #4
+2020/10/12-19:47:46.926 5f5a Level-0 table #9: started
+2020/10/12-19:47:47.070 5f5a Level-0 table #9: 10883 bytes OK
+2020/10/12-19:47:47.159 5f5a Delete type=0 #6
+2020/10/12-19:48:24.600 5f5a Level-0 table #11: started
+2020/10/12-19:48:24.739 5f5a Level-0 table #11: 10881 bytes OK
+2020/10/12-19:48:24.828 5f5a Delete type=0 #8
+2020/10/12-19:49:02.092 5f5a Level-0 table #13: started
+2020/10/12-19:49:02.204 5f5a Level-0 table #13: 10870 bytes OK
+2020/10/12-19:49:02.281 5f5a Delete type=0 #10
+2020/10/12-19:49:39.687 5f5a Level-0 table #15: started
+2020/10/12-19:49:39.807 5f5a Level-0 table #15: 10878 bytes OK
+2020/10/12-19:49:39.884 5f5a Delete type=0 #12
+2020/10/12-19:49:39.884 5f5a Compacting 4@0 + 1@1 files
+2020/10/12-19:49:39.939 5f5a Generated table #16@0: 1 keys, 707 bytes
+2020/10/12-19:49:39.940 5f5a Compacted 4@0 + 1@1 files => 707 bytes
+2020/10/12-19:49:40.020 5f5a compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/12-19:49:40.022 5f5a Delete type=2 #9
+2020/10/12-19:49:40.022 5f5a Delete type=2 #15
+2020/10/12-19:49:40.022 5f5a Delete type=2 #11
+2020/10/12-19:49:40.022 5f5a Delete type=2 #13
+2020/10/12-19:49:40.022 5f5a Delete type=2 #7
+2020/10/12-19:50:17.262 5f5a Level-0 table #18: started
+2020/10/12-19:50:17.390 5f5a Level-0 table #18: 10884 bytes OK
+2020/10/12-19:50:17.480 5f5a Delete type=0 #14
+2020/10/12-19:50:54.828 5f5a Level-0 table #20: started
+2020/10/12-19:50:54.936 5f5a Level-0 table #20: 10876 bytes OK
+2020/10/12-19:50:55.094 5f5a Delete type=0 #17
+2020/10/12-19:52:37.143 5f5a Level-0 table #22: started
+2020/10/12-19:52:38.291 5f5a Level-0 table #22: 10265 bytes OK
+2020/10/12-19:52:39.116 5f5a Delete type=0 #19

@@ -1,0 +1,262 @@
+{
+   "checksum": "1fb8947205ddbe87c9dd0f7b476e92c8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13246997741892742",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Könyvjelzősáv",
+         "type": "folder"
+      },
+      "custom_root": {
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13246997742362000",
+                  "guid": "405d04d8-d39e-440f-b428-8e6f27bad7df",
+                  "id": "9",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/a07ea74aa0b3aae5b7dc37789a2e834b1e883060.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/bd1ec98a8b358bc0cf68cad5a59c192b56d12dfc.png",
+                     "imageDataType": "2",
+                     "imageID": "2927498828C5AE69F685B89AB2C78250E59651632542A7013555819175954B5B",
+                     "imageType": "2",
+                     "partner_id": "booking_com_hu",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/bd1ec98a8b358bc0cf68cad5a59c192b56d12dfc.png",
+                     "partner_url": "https://www.booking.com/index.html?aid=343346&label=operasoft-sdO15-343346&utm_source=Opera&utm_medium=web&utm_campaign=sdO15",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/booking_com_hu",
+                     "revision": "20200710",
+                     "server_position": "1"
+                  },
+                  "name": "Booking.com",
+                  "type": "url",
+                  "url": "https://www.booking.com/"
+               }, {
+                  "date_added": "13246997742366162",
+                  "guid": "f7853c77-9035-4161-b446-2855d20a32d8",
+                  "id": "10",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/eb0afd3d47edb6bf6a0594a2b28660632349b341.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/9c71425368eb92a8da3223db67553d0c865b83c4.png",
+                     "imageDataType": "2",
+                     "imageID": "EF2C9F7CEE1885578697DE640325E16BFDA0A35D79805CFCC1ED5DFA88C8813E",
+                     "imageType": "2",
+                     "partner_id": "amazon_hu",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/9c71425368eb92a8da3223db67553d0c865b83c4.png",
+                     "partner_url": "http://www.amazon.de/gp/switch-language/homepage.html/?tag=operadesktop14-sd-de-hu-21&ie=UTF8&language=en_GB",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/amazon_hu",
+                     "revision": "20191128",
+                     "server_position": "2"
+                  },
+                  "name": "Amazon",
+                  "type": "url",
+                  "url": "http://www.amazon.de/"
+               }, {
+                  "date_added": "13246997742368521",
+                  "guid": "29677fe6-1c38-474d-ba74-8375093cecf1",
+                  "id": "11",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/b189f6ad04d571890f02d63d295ae3815bc60d64.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7f7f24d59ae6c9f584a9d494b23027933fda169a.png",
+                     "imageDataType": "2",
+                     "imageID": "B90AB9E80FDD4C95038EBDFE11BC7C7C532FD38CD3816EA666EDAC5D8CECFBFF",
+                     "imageType": "2",
+                     "partner_id": "facebook",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7f7f24d59ae6c9f584a9d494b23027933fda169a.png",
+                     "partner_url": "https://www.facebook.com/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/facebook",
+                     "revision": "20171003",
+                     "server_position": "4"
+                  },
+                  "name": "Facebook",
+                  "type": "url",
+                  "url": "http://www.facebook.com/"
+               }, {
+                  "date_added": "13246997742369485",
+                  "guid": "d4f8c23d-a10a-4ac8-bb00-765329034fcc",
+                  "id": "12",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/f630beaa98d8d529ade9af1153a86190d4f120e5.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/b2212365035a0d3c41052fd63eb892321b8f363a.png",
+                     "imageDataType": "2",
+                     "imageID": "3D827BFC11986463A749FBB2D8BCA8BADF05FD149F1B9D05BE200E5DCEC6223F",
+                     "imageType": "2",
+                     "partner_id": "youtube",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/b2212365035a0d3c41052fd63eb892321b8f363a.png",
+                     "partner_url": "https://www.youtube.com/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/youtube",
+                     "revision": "20171003",
+                     "server_position": "5"
+                  },
+                  "name": "YouTube",
+                  "type": "url",
+                  "url": "http://www.youtube.com/"
+               }, {
+                  "date_added": "13246997742370503",
+                  "guid": "47426bef-123f-4f1f-abbe-1726567c849f",
+                  "id": "13",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/a7b920b2c530ac8fa3c64ebcf719cb94158f6900.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/9225a5043005de70d83583064468457c17a5c685.png",
+                     "imageDataType": "2",
+                     "imageID": "B5997E1FF96C409B3D9861A7D3579ABB80B24B4DC8EE8EDFBFF377977F0D9BAD",
+                     "imageType": "2",
+                     "partner_id": "yahoo_hu",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/9225a5043005de70d83583064468457c17a5c685.png",
+                     "partner_url": "https://searchoper.com/?a=gsp_opera_00_00_ssg02",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/yahoo_hu",
+                     "revision": "20171003",
+                     "server_position": "6"
+                  },
+                  "name": "Yahoo!",
+                  "type": "url",
+                  "url": "http://hu.mail.yahoo.com/"
+               }, {
+                  "date_added": "13246997742372645",
+                  "guid": "6c7ea3da-ab7f-4c44-96d7-cde29537d1d8",
+                  "id": "14",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/609fa7dfdac6e13e43d220628faf73eb0bc67ff2.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/599423f462d2b4441842d9855493917934da2cf9.png",
+                     "imageDataType": "2",
+                     "imageID": "82909B926406328D2284882A01F1B0C7B86BE1724BDEE92E92B80490E683F7EE",
+                     "imageType": "2",
+                     "partner_id": "aliexpress_com_hu",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/599423f462d2b4441842d9855493917934da2cf9.png",
+                     "partner_url": "https://s.click.aliexpress.com/e/_dS5vKkV",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/aliexpress_com_hu",
+                     "revision": "20171003",
+                     "server_position": "7"
+                  },
+                  "name": "AliExpress",
+                  "type": "url",
+                  "url": "http://aliexpress.com/"
+               }, {
+                  "date_added": "13246997742374460",
+                  "guid": "620a4172-35fc-447b-9769-dce10a093d4d",
+                  "id": "15",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/336f945906478bb7548a0f88644bf8a2f24c1e9a.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/21d6ac349c688882709606742273ef1e279ae475.png",
+                     "imageDataType": "2",
+                     "imageID": "C4757800391D7ACAE7E65B54D248B3DC77582FB4021FCDB647D893A2A6A8730F",
+                     "imageType": "2",
+                     "partner_id": "forgeofempires_hu",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/21d6ac349c688882709606742273ef1e279ae475.png",
+                     "partner_url": "https://om.forgeofempires.com/foe/hu/?ref=operafix_hu_hu",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/forgeofempires_hu",
+                     "revision": "20200122",
+                     "server_position": "9"
+                  },
+                  "name": "Forge of Empires",
+                  "type": "url",
+                  "url": "https://om.forgeofempires.com/"
+               }, {
+                  "date_added": "13246997742376442",
+                  "guid": "47e0d31f-ef0d-4b97-8e61-338455630b53",
+                  "id": "16",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/3ecc2abe5d13febe78762929051e1beabc8318ca.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/8820b9178fa2f040a3801eb886d68544401b45fc.png",
+                     "imageDataType": "2",
+                     "imageID": "FF372F289015884DBACC019C635A263223F49BAFBABEFC1A86F6282B2998A112",
+                     "imageType": "2",
+                     "partner_id": "elvenar_hu",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/8820b9178fa2f040a3801eb886d68544401b45fc.png",
+                     "partner_url": "https://om.elvenar.com/ox/hu/?ref=operafix_hu_hu",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/elvenar_hu",
+                     "revision": "20200415",
+                     "server_position": "10"
+                  },
+                  "name": "Elvenar.com",
+                  "type": "url",
+                  "url": "https://om.elvenar.com/"
+               }, {
+                  "date_added": "13246997742378720",
+                  "guid": "25e768c0-3bfa-4d14-9745-37f9f91bb49d",
+                  "id": "17",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/39e45fd2b480b790bfd8de6692d0b777db0b8239.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7e81885606717b502233ea0b99811a942df0131a.png",
+                     "imageDataType": "2",
+                     "imageID": "850342564811FC2B6A7DE53096E587797CA14C6D0708C90C08BDD9450A29311C",
+                     "imageType": "2",
+                     "partner_id": "reserved_hu",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7e81885606717b502233ea0b99811a942df0131a.png",
+                     "partner_url": "https://clk.tradedoubler.com/click?p=273515&a=3049381&g=24337124",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/reserved_hu",
+                     "revision": "20200701",
+                     "server_position": "11"
+                  },
+                  "name": "Reserved",
+                  "type": "url",
+                  "url": "https://www.reserved.com/"
+               } ],
+               "date_added": "13246997742054626",
+               "date_modified": "13246997742378720",
+               "guid": "5bbe97d8-b6b6-4486-a790-357ff56598ad",
+               "id": "8",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "9aa4c43d-3508-46ec-aec8-f6829e388643"
+               },
+               "name": "archlinux",
+               "type": "folder"
+            } ],
+            "date_added": "13246997741945587",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000904",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [  ],
+            "date_added": "13246997741945603",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000905",
+            "id": "7",
+            "name": "Kuka",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13246997741945530",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000901",
+            "id": "4",
+            "name": "Besorolatlan könyvjelzők",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [  ],
+            "date_added": "13246997741945560",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000902",
+            "id": "5",
+            "name": "Egyéb könyvjelzők",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13246997741892760",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Importált könyvjelzők",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13246997741892767",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobilos könyvjelzők",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

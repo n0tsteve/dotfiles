@@ -1,0 +1,42 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Python Console" timestamp="1596709529417">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pythonProject/main.py" timestamp="1596709599124">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">IyBUaGlzIGlzIGEgc2FtcGxlIFB5dGhvbiBzY3JpcHQuCgojIFByZXNzIFNoaWZ0K0YxMCB0byBleGVjdXRlIGl0IG9yIHJlcGxhY2UgaXQgd2l0aCB5b3VyIGNvZGUuCiMgUHJlc3MgRG91YmxlIFNoaWZ0IHRvIHNlYXJjaCBldmVyeXdoZXJlIGZvciBjbGFzc2VzLCBmaWxlcywgdG9vbCB3aW5kb3dzLCBhY3Rpb25zLCBhbmQgc2V0dGluZ3MuCgoKZGVmIHByaW50X2hpKG5hbWUpOgogICAgIyBVc2UgYSBicmVha3BvaW50IGluIHRoZSBjb2RlIGxpbmUgYmVsb3cgdG8gZGVidWcgeW91ciBzY3JpcHQuCiAgICBwcmludChmJ0hpLCB7bmFtZX0nKSAgIyBQcmVzcyBDdHJsK0Y4IHRvIHRvZ2dsZSB0aGUgYnJlYWtwb2ludC4KCgojIFByZXNzIHRoZSBncmVlbiBidXR0b24gaW4gdGhlIGd1dHRlciB0byBydW4gdGhlIHNjcmlwdC4KaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG5hbWUgPSBpbnB1dCgiVGVsbCBtZSB5b3VyIG5hbWUsIFBsZWFzZTogIikKICAgIHByaW50X2hpKG5hbWUpCgojIFNlZSBQeUNoYXJtIGhlbHAgYXQgaHR0cHM6Ly93d3cuamV0YnJhaW5zLmNvbS9oZWxwL3B5Y2hhcm0vCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBUaGlzIGlzIGEgc2FtcGxlIFB5dGhvbiBzY3JpcHQuCgojIFByZXNzIFNoaWZ0K0YxMCB0byBleGVjdXRlIGl0IG9yIHJlcGxhY2UgaXQgd2l0aCB5b3VyIGNvZGUuCiMgUHJlc3MgRG91YmxlIFNoaWZ0IHRvIHNlYXJjaCBldmVyeXdoZXJlIGZvciBjbGFzc2VzLCBmaWxlcywgdG9vbCB3aW5kb3dzLCBhY3Rpb25zLCBhbmQgc2V0dGluZ3MuCgoKZGVmIHByaW50X2hpKG5hbWUpOgogICAgIyBVc2UgYSBicmVha3BvaW50IGluIHRoZSBjb2RlIGxpbmUgYmVsb3cgdG8gZGVidWcgeW91ciBzY3JpcHQuCiAgICBwcmludChmJ0hpLCB7bmFtZX0nKSAgIyBQcmVzcyBDdHJsK0Y4IHRvIHRvZ2dsZSB0aGUgYnJlYWtwb2ludC4KCgojIFByZXNzIHRoZSBncmVlbiBidXR0b24gaW4gdGhlIGd1dHRlciB0byBydW4gdGhlIHNjcmlwdC4KaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG5hbWUgPSBpbnB1dCgiVGVsbCBtZSB5b3VyIG5hbWUsIFBsZWFzZTogIikKICAgIHByaW50X2hpKG5hbWUpCgojIFNlZSBQeUNoYXJtIGhlbHAgYXQgaHR0cHM6Ly93d3cuamV0YnJhaW5zLmNvbS9oZWxwL3B5Y2hhcm0vCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+</application>

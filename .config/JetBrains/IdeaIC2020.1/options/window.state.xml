@@ -1,0 +1,20 @@
+<application>
+  <component name="WindowManager">
+    <frame x="260" y="55" width="1400" height="1000" extendedState="6" />
+    <layout>
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="127" y="97" width="1656" height="757" key="new project wizard" timestamp="1598682841328">
+      <screen x="5" y="35" width="1910" height="1040" />
+    </state>
+    <state x="127" y="97" width="1656" height="757" key="new project wizard/5.35.1910.1040" timestamp="1598682841328" />
+  </component>
+</application>

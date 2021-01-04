@@ -1,0 +1,39 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/pythonProject">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1hwwc0R9vjRHfCiTvsdvMBcHbWm">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-202.7319.64" />
+              <option name="buildTimestamp" value="1600685523141" />
+              <frame x="5" y="35" width="1910" height="1045" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1600935537402" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/BlinMaker">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1glJSzZRSzOspxKzTKIBtRPJriB">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-202.7660.27" />
+              <option name="buildTimestamp" value="1605462065960" />
+              <frame x="980" y="35" width="935" height="1040" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1609696468669" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/BlinMaker" />
+        <option value="$USER_HOME$/PycharmProjects/pythonProject" />
+      </list>
+    </option>
+  </component>
+</application>
