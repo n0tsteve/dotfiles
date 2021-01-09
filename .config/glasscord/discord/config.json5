@@ -1,0 +1,11 @@
+{
+  autoDownloadFeaturedModules: true,
+  startupDelayMs: 200,
+  windowProps: {
+    frame: true,
+  },
+  modules: {
+    CSSLoader: true,
+    DiscordTitlebar: true,
+  },
+}

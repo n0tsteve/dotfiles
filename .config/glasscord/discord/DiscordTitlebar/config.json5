@@ -1,0 +1,4 @@
+{
+  titlebar: 'linux',
+  startupToleranceMs: 5000,
+}

@@ -1,0 +1,204 @@
+[settings]
+format-padding = 0
+format-margin = 0
+
+bg = #d4516f
+dark = #282828
+light = #edbbb2
+
+[bar/main]
+radius = 12.0
+font-0 = "JetBrainsMono Nerd Font:size=10;2"
+font-1 = "JetBrainsMono Nerd Font Mono:size=20;4"
+offset-y= 10px
+height= 28px
+;enable-ipc = true
+;override-redirect = true
+
+background = #00000000
+
+modules-left = gleft i3 date gright
+modules-center = gleft1 mpd gright1
+modules-right = gleft keybd volume bness battery wifi gright
+
+[module/i3]
+type = internal/i3
+index-sort = true
+enable-click = true
+enable-scroll = true
+wrapping-scroll = true
+format = <label-state>
+label-focused = %index%
+label-focused-foreground = ${settings.light}
+label-focused-background = ${settings.bg}
+label-focused-underline = ${settings.light}
+label-focused-padding = 1
+
+label-unfocused = %index%
+label-unfocused-padding = 1
+label-unfocused-background = ${settings.bg}
+
+label-visible = %index%
+label-visible-padding = 1
+label-visible-background = ${settings.bg}
+
+label-urgent = %index%
+label-urgent-padding = 1
+label-urgent-background = ${settings.bg}
+
+[module/mpd]
+type = internal/mpd
+
+host = 127.0.0.1
+port = 6600
+
+interval = 2
+format-online = <label-song> <icon-prev> <toggle> <icon-next>
+label-song =  %title%
+label-song-maxlen = 35
+label-song-ellipsis = true
+label-song-foreground = ${settings.bg}
+label-offline = MPD is offline
+icon-play-foreground = ${settings.bg}
+icon-play = 契
+icon-pause-foreground = ${settings.bg}
+icon-pause = 
+icon-prev-foreground = ${settings.bg}
+icon-prev = 玲 
+icon-next-foreground = ${settings.bg}
+icon-next = 怜
+
+format-online-background = ${settings.dark}
+
+[module/keybd]
+type = internal/xkeyboard
+
+blacklist-0 = num lock
+blacklist-1 = caps lock
+blacklist-2 = scroll lock
+
+format = <label-layout>
+format-padding = 1
+label-layout =  %layout%
+label-layout-padding = 1
+label-layout-foreground = ${settings.light}
+format-background = ${settings.bg}
+
+[module/bness]
+type = custom/script
+exec = ~/.config/polybar/scripts/bness
+tail = true
+interval = 0.25
+format-padding = 1
+format-background = ${settings.bg}
+
+[module/volume]
+type=internal/pulseaudio
+ramp-volume-0 = 
+ramp-volume-1 = 
+ramp-volume-2 = 
+format-volume = <ramp-volume> <label-volume>
+format-volume-padding = 1
+label-muted = ﱝ %percentage%%
+format-muted-padding = 1
+use-ui-max = false
+format-volume-background = ${settings.bg}
+format-muted-background = ${settings.bg}
+
+[module/wifi]
+type = internal/network
+interface = wlp2s0
+interval = 1.0
+format-connected-padding = 1
+format-connected = 直 <label-connected>
+format-disconnected = 睊 <label-disconnected>
+format-disconnected-padding = 1
+label-connected = %essid%
+label-disconnected = Disconnected
+format-connected-background = ${settings.bg}
+format-disconnected-background = ${settings.bg}
+
+[module/date]
+type = internal/date
+interval = 1.0
+date = %A, %d %B
+time = at %I:%M %p
+date-alt = It's %A, %d %B %Y
+time-alt = at %k:%M:%S
+format = <label>
+format-prefix = " "
+format-padding = 1
+label = %date% %time%
+format-background = ${settings.bg}
+
+[module/battery]
+type = internal/battery
+battery = BAT0
+adapter = AC0
+
+poll-interval = 0
+format-charging = <animation-charging> <label-charging>
+format-charging-padding = 1
+format-charging-background = ${settings.bg}
+format-discharging = <ramp-capacity> <label-discharging>
+format-discharging-background = ${settings.bg}
+format-discharging-padding = 1
+label-charging = %percentage%%
+label-discharging =  %percentage%%
+label-full =  100%
+label-full-background = ${settings.bg}
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
+animation-charging-framerate = 750
+
+
+[glyph]
+gleft = 
+gright = 
+
+[module/gleft]
+type = custom/text
+content-background = #00000000
+content-foreground = ${settings.bg}
+content = ${glyph.gright}
+content-font = 2
+
+[module/gright]
+type = custom/text
+content-background = #00000000
+content-foreground = ${settings.bg}
+content = ${glyph.gleft}
+content-font = 2
+
+[module/gleft1]
+type = custom/text
+content-background = #00000000
+content-foreground = ${settings.dark}
+content = ${glyph.gright}
+content-font = 2
+
+[module/gright1]
+type = custom/text
+content-background = #00000000
+content-foreground = ${settings.dark}
+content = ${glyph.gleft}
+content-font = 2
+
+;ramp-capacity-0 = ⠀
+;ramp-capacity-1 = ⠀
+;ramp-capacity-2 = ⠀
+;ramp-capacity-3 = ⠀
+;ramp-capacity-4 = ⠀
+;animation-charging-0 =   
+;animation-charging-1 =   
+;animation-charging-2 =   
+;animation-charging-3 =   
+;animation-charging-4 =   

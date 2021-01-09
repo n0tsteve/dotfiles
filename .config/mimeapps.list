@@ -1,0 +1,7 @@
+[Added Associations]
+application/octet-stream=geany.desktop;
+application/x-shellscript=geany.desktop;
+image/jpeg=viewnior.desktop;
+
+[Default Applications]
+image/jpeg=viewnior.desktop

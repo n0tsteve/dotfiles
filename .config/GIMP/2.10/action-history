@@ -1,0 +1,28 @@
+# GIMP action-history
+
+(history-item "edit-copy" 5)
+(history-item "tools-zoom" 0)
+(history-item "edit-paste" 1)
+(history-item "file-open-as-layers" 0)
+(history-item "select-invert" 0)
+(history-item "image-new" 0)
+(history-item "file-open" 1)
+(history-item "select-all" 0)
+(history-item "image-scale" 0)
+(history-item "tools-scale" 0)
+(history-item "tools-iscissors" 0)
+(history-item "edit-cut" 0)
+(history-item "script-fu-distress-selection" 0)
+(history-item "tools-align" 0)
+(history-item "tools-move" 0)
+(history-item "tools-flip" 0)
+(history-item "tools-rotate" 0)
+(history-item "layers-new" 0)
+(history-item "filters-hue-chroma" 0)
+(history-item "filters-curves" 0)
+(history-item "filters-color-temperature" 0)
+(history-item "file-save" 0)
+(history-item "file-export" 0)
+(history-item "file-quit" 1)
+
+# end of action-history

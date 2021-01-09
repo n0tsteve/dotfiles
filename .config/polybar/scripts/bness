@@ -1,0 +1,15 @@
+#!/bin/bash
+
+declare -i level
+level=$(brightnessctl g)
+percentage=$(($level/75))
+
+if [ $percentage -gt 80 ]
+then
+	echo -n " $percentage%"
+elif [ $percentage -gt 45 ]
+then
+	echo -n " $percentage%"
+else
+	echo -n " $percentage%"
+fi

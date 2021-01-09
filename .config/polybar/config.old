@@ -1,0 +1,149 @@
+[settings]
+format-padding = 1
+format-margin = 1
+
+bg = #d4516f
+dark = #282828
+light = #edbbb2
+
+[bar/root]
+;font-0 = "JetBrainsMono Nerd Font:style=Regular:size=10;2"
+font-0 = "JetBrainsMono Nerd Font:size=10;2"
+font-1 = "JetBrainsMono Nerd Font:size=16.5;2"
+offset-y= 10px
+height= 28px
+;enable-ipc = true
+override-redirect = true
+
+[bar/left]
+inherit=bar/root
+offset-x = 10px
+modules-left = i3 date
+width = 420px
+background = ${settings.bg}
+
+[bar/center]
+inherit=bar/root
+modules-center = mpd
+width = 400px
+offset-x = 50%:-200px
+background = ${settings.dark}
+
+[bar/right]
+inherit=bar/root
+modules-right = keybd volume bness wifi
+offset-x = 100%:-380px
+width = 370px
+line-size = 2px
+background = ${settings.bg}
+
+[module/i3]
+type = internal/i3
+index-sort = true
+enable-click = true
+enable-scroll = true
+wrapping-scroll = true
+format = <label-state>
+label-focused = %index%
+label-focused-foreground = ${settings.light}
+label-focused-background = ${settings.bg}
+label-focused-underline = ${settings.light}
+label-focused-padding = 1
+
+label-unfocused = %index%
+label-unfocused-padding = 1
+
+label-visible = %index%
+label-visible-padding = 1
+
+label-urgent = %index%
+label-urgent-padding = 1
+
+[module/mpd]
+type = internal/mpd
+
+hosy = 127.0.0.1
+port = 6600
+
+interval = 2
+format-online = <label-song> <icon-prev> <toggle> <icon-next>
+label-song =  %title%
+label-song-maxlen = 35
+label-song-ellipsis = true
+label-song-foreground = ${settings.bg}
+label-offline = MPD is offline
+icon-play-foreground = ${settings.bg}
+icon-play = 契
+icon-pause-foreground = ${settings.bg}
+icon-pause = 
+icon-prev-foreground = ${settings.bg}
+icon-prev = 玲 
+icon-next-foreground = ${settings.bg}
+icon-next = 怜
+
+[module/keybd]
+type = internal/xkeyboard
+
+blacklist-0 = num lock
+blacklist-1 = caps lock
+blacklist-2 = scroll lock
+
+format = <label-layout>
+label-layout =  %layout%
+label-layout-padding = 1
+label-layout-foreground = ${settings.light}
+
+[module/bness]
+type = custom/script
+exec = ~/.config/polybar/scripts/bness
+tail = true
+interval = 0.25
+format-padding = 1
+
+[module/volume]
+type=internal/pulseaudio
+ramp-volume-0 = 
+ramp-volume-1 = 
+ramp-volume-2 = 
+format-volume = <ramp-volume> <label-volume>
+label-muted = ﱝ %percentage%%
+use-ui-max = false
+
+[module/wifi]
+type = internal/network
+interface = wlp2s0
+interval = 1.0
+format-connected = 直 <label-connected>
+format-disconnected = 睊 <label-disconnected>
+label-connected = %essid%
+label-disconnected = Disconnected
+
+[module/date]
+type = internal/date
+interval = 1.0
+date = %A, %d %B
+time = at %I:%M %p
+date-alt = It's %A, %d %B %Y
+time-alt = at %k:%M:%S
+format = <label>
+format-prefix = " "
+format-padding = 1
+label = %date% %time%
+
+[glyph]
+gleft = 
+gright = 
+
+[module/gleft]
+type = custom/text
+content-background = ${settings.bg}
+content-foreground = ${settings.light}
+content = ${glyph.gright}
+content-font = 2
+
+[module/gright]
+type = custom/text
+content-background = ${settings.bg}
+content-foreground = ${settings.light}
+content = ${glyph.gleft}
+content-font = 2
